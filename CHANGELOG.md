@@ -1,6 +1,7 @@
 # Changelog
 
 ## 1.1.0
+- Fixed the poplar signs and hanging signs rendering with no wooden geometry (only the text showed). Their blockstates and models were missing: the generated resources had a single bogus variant pointing at a particle-only stub, so the 14 template-based models (poplar_sign_rot_0-3, poplar_wall_sign, poplar_hanging_sign_rot_0-3, poplar_hanging_sign_attached_rot_0-3, poplar_wall_hanging_sign) and the 16/32-variant blockstates vanilla uses were generated.
 - Fixed the poplar sign and hanging sign items showing their raw translation key: signs are block-backed, so like vanilla's they now resolve block.minecraft.* rather than an item.minecraft.* key.
 - Fixed the poplar boats missing their item.minecraft.* name (only the entity form existed after the namespace merge).
 - The backported content now sits in the vanilla creative tabs (poplar under Building Blocks, the wool/concrete/cushion families under Colored Blocks, the plants under Natural Blocks, the signs and straw bed under Functional Blocks, the boats under Tools & Utilities) at the same positions Minecraft 26.3 uses. The separate "26.3物品" tab is gone - 26.3 adds no creative tab of its own.
