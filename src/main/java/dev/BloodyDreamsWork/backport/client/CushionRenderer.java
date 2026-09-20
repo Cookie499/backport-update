@@ -7,6 +7,7 @@ import dev.BloodyDreamsWork.backport.content.CushionEntity;
 import net.minecraft.client.model.geom.ModelLayerLocation;
 import net.minecraft.client.model.geom.ModelPart;
 import net.minecraft.client.model.geom.PartPose;
+import net.minecraft.client.model.geom.builders.CubeDeformation;
 import net.minecraft.client.model.geom.builders.CubeListBuilder;
 import net.minecraft.client.model.geom.builders.LayerDefinition;
 import net.minecraft.client.model.geom.builders.MeshDefinition;
@@ -41,9 +42,14 @@ public class CushionRenderer extends EntityRenderer<CushionEntity, CushionRender
     }
 
     public static LayerDefinition createLayer() {
+        // Vanilla 26.3 CushionModel.createBodyLayer shrinks the box by 0.005px per face with a
+        // negative CubeDeformation instead of offsetting the model's depth. That keeps the bottom
+        // face off the support block's surface, so the plain (unculled) entityCutout render type
+        // is enough and no extra translate is needed.
         MeshDefinition mesh = new MeshDefinition();
         mesh.getRoot().addOrReplaceChild("cushion",
-                CubeListBuilder.create().texOffs(0, 0).addBox(-8.0F, -4.0F, -8.0F, 16.0F, 4.0F, 16.0F),
+                CubeListBuilder.create().texOffs(0, 0)
+                        .addBox(-8.0F, -4.0F, -8.0F, 16.0F, 4.0F, 16.0F, new CubeDeformation(-0.005F)),
                 PartPose.ZERO);
         return LayerDefinition.create(mesh, 64, 64);
     }
@@ -68,7 +74,7 @@ public class CushionRenderer extends EntityRenderer<CushionEntity, CushionRender
         poseStack.scale(-1.0F, -1.0F, 1.0F);
 
         collector.submitModelPart(this.root, poseStack,
-                RenderTypes.entityCutoutZOffset(TEXTURES.get(state.color)),
+                RenderTypes.entityCutout(TEXTURES.get(state.color)),
                 state.lightCoords, OverlayTexture.NO_OVERLAY, null);
 
         poseStack.popPose();

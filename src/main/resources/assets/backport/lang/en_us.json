@@ -1,5 +1,5 @@
 {
-  "itemGroup.backport.main": "Backport",
+  "itemGroup.backport.main": "26.3物品",
   "block.backport.poplar_log": "Poplar Log",
   "block.backport.stripped_poplar_log": "Stripped Poplar Log",
   "block.backport.poplar_wood": "Poplar Wood",
@@ -100,7 +100,6 @@
   "block.backport.black_concrete_stairs": "Black Concrete Stairs",
   "block.backport.black_concrete_slab": "Black Concrete Slab",
   "block.backport.straw_bed": "Straw Bed",
-  "block.backport.straw_bed.not_here": "The straw bed does not work here",
   "stat.backport.sleep_in_straw_bed": "Times Slept in a Straw Bed",
   "entity.backport.cushion": "Cushion",
   "item.backport.white_cushion": "White Cushion",

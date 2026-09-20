@@ -10,8 +10,6 @@ import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.InteractionResult;
-import net.minecraft.world.attribute.BedRule;
-import net.minecraft.world.attribute.EnvironmentAttributes;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.DyeColor;
 import net.minecraft.world.level.BlockGetter;
@@ -69,12 +67,11 @@ public class StrawBedBlock extends BedBlock {
             }
         }
 
-        BedRule bedRule = level.environmentAttributes().getValue(EnvironmentAttributes.BED_RULE, pos);
-        if (bedRule.explodes()) {
-            player.sendOverlayMessage(Component.translatable("block.backport.straw_bed.not_here"));
-            return InteractionResult.SUCCESS;
-        }
-
+        // Vanilla 26.3 gives straw beds their own STRAW_BED_RULE (DESTROY_ON_LEAVE) so that they can
+        // be slept in even where a normal bed would blow up - they just break when you get up, which
+        // this block already does when it crumbles. 26.2 has no STRAW_BED_RULE and no way for a mod
+        // to add one (EnvironmentAttributes.register is private and minecraft-namespaced), so the
+        // same behaviour is expressed here by simply not honouring the dimension's bed-explodes rule.
         if (state.getValue(OCCUPIED)) {
             player.sendOverlayMessage(Component.translatable("block.minecraft.bed.occupied"));
             return InteractionResult.SUCCESS;

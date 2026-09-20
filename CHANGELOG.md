@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0
+- Fixed every block item showing its raw translation key instead of a name: they are now registered like vanilla's, so they resolve block.backport.* instead of looking for item.backport.* keys that never existed.
+- Re-ported the localized names from the official Minecraft 26.3 language files. The concrete stairs and slabs, the explorer maps and thousands of other entries were still showing English in every language.
+- Straw beds can now be slept in everywhere and simply break when you get up, matching the 26.3 straw bed rule instead of showing a placeholder message.
+- The creative tab is now named "26.3物品" in every language.
+- Cushions are drawn slightly smaller instead of with a depth offset, removing the rendering artifact that offset caused while still preventing z-fighting against the block below.
+
 ## 1.0.3
 
 - Added official Minecraft 26.3 Snapshot 7 translations for all 143 languages across every supported Minecraft version and mod loader.

@@ -22,7 +22,11 @@ public final class ModItems {
 
     private static ModRegister.Entry<BlockItem> simpleBlockItem(ModRegister.Entry<? extends Block> block) {
         return ITEMS.register(block.getId().getPath(),
-                () -> new BlockItem(block.get(), new Item.Properties()));
+                // Vanilla registers every block item through Items.registerBlock, which applies
+                // useBlockDescriptionPrefix(). Without it Item.Properties defaults to the item.
+                // prefix, so a BlockItem looks up item.backport.<name> while the language files
+                // (and the block itself) use block.backport.<name> - and the raw key shows in game.
+                () -> new BlockItem(block.get(), new Item.Properties().useBlockDescriptionPrefix()));
     }
 
     public static final ModRegister.Entry<BlockItem> POPLAR_LOG = simpleBlockItem(ModBlocks.POPLAR_LOG);
