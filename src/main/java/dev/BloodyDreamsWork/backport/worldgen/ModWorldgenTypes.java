@@ -31,15 +31,13 @@ public final class ModWorldgenTypes {
             TREE_DECORATORS.register("shelf_mushroom",
                     () -> new TreeDecoratorType<>(ShelfMushroomDecorator.CODEC));
 
-    public static final ModRegister.Entry<TreeDecoratorType<AttachedToLogsDecorator>> ATTACHED_TO_LOGS_DECORATOR =
-            TREE_DECORATORS.register("attached_to_logs",
-                    () -> new TreeDecoratorType<>(AttachedToLogsDecorator.CODEC));
+    // attached_to_logs and fallen_tree are deliberately NOT registered: vanilla 26.2 already ships
+    // TreeDecoratorType.ATTACHED_TO_LOGS and Feature.FALLEN_TREE under those exact ids, so claiming
+    // them here would raise "Adding duplicate key" during registry bootstrap. The mod uses the
+    // vanilla implementations instead (which is what its worldgen json already refers to).
 
     public static final ModRegister<Feature<?>> FEATURES =
             ModRegister.create(BuiltInRegistries.FEATURE);
-
-    public static final ModRegister.Entry<FallenTreeFeature> FALLEN_TREE =
-            FEATURES.register("fallen_tree", () -> new FallenTreeFeature(FallenTreeConfiguration.CODEC));
 
     public static void register() {
     }

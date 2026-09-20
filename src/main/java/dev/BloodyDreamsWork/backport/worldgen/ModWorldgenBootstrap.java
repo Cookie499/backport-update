@@ -35,11 +35,13 @@ import net.minecraft.world.level.levelgen.carver.ConfiguredWorldCarver;
 import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
 import net.minecraft.world.level.levelgen.feature.Feature;
 import net.minecraft.world.level.levelgen.feature.WeightedPlacedFeature;
+import net.minecraft.world.level.levelgen.feature.configurations.FallenTreeConfiguration;
 import net.minecraft.world.level.levelgen.feature.configurations.RandomFeatureConfiguration;
 import net.minecraft.world.level.levelgen.feature.configurations.SimpleBlockConfiguration;
 import net.minecraft.world.level.levelgen.feature.configurations.TreeConfiguration;
 import net.minecraft.world.level.levelgen.feature.featuresize.TwoLayersFeatureSize;
 import net.minecraft.world.level.levelgen.feature.stateproviders.BlockStateProvider;
+import net.minecraft.world.level.levelgen.feature.treedecorators.AttachedToLogsDecorator;
 import net.minecraft.world.level.levelgen.blockpredicates.BlockPredicate;
 import net.minecraft.world.level.levelgen.placement.BiomeFilter;
 import net.minecraft.world.level.levelgen.placement.BlockPredicateFilter;
@@ -66,17 +68,19 @@ public final class ModWorldgenBootstrap {
         poplar(context, ModConfiguredFeatures.ORANGE_POPLAR, ModBlocks.ORANGE_POPLAR_LEAVES.get());
         poplar(context, ModConfiguredFeatures.YELLOW_POPLAR, ModBlocks.YELLOW_POPLAR_LEAVES.get());
 
+        // 26.2 already ships the fallen_tree feature and the attached_to_logs decorator, so the
+        // backport uses the vanilla ones: registering our own under those ids is a duplicate key.
         context.register(ModConfiguredFeatures.FALLEN_POPLAR_TREE, new ConfiguredFeature<>(
-                ModWorldgenTypes.FALLEN_TREE.get(),
-                new FallenTreeConfiguration(
+                Feature.FALLEN_TREE,
+                new FallenTreeConfiguration.FallenTreeConfigurationBuilder(
                         BlockStateProvider.simple(ModBlocks.POPLAR_LOG.get()),
-                        UniformInt.of(4, 7),
-                        List.of(),
-                        List.of(
+                        UniformInt.of(4, 7))
+                        .logDecorators(List.of(
                                 new AttachedToLogsDecorator(0.1F,
                                         BlockStateProvider.simple(Blocks.BROWN_MUSHROOM),
                                         List.of(Direction.UP)),
-                                new ShelfMushroomDecorator(0.8F)))));
+                                new ShelfMushroomDecorator(0.8F)))
+                        .build()));
 
         context.register(ModConfiguredFeatures.RED_SHRUB, new ConfiguredFeature<>(
                 Feature.SIMPLE_BLOCK,

@@ -1,6 +1,7 @@
 # Changelog
 
 ## 1.1.0
+- Fixed the startup crash "Adding duplicate key minecraft:attached_to_logs": 26.2 already ships the attached_to_logs decorator and the fallen_tree feature, so the mod now uses the vanilla ones instead of registering its own copies under the same ids.
 - Every block, item, entity, biome, sound, tag and worldgen entry now lives in the minecraft namespace instead of the mod's own, so the mod's content presents itself as vanilla content. Existing worlds will need a fresh one: ids such as backport:poplar_log are no longer registered.
 - Fixed every block item showing its raw translation key instead of a name: they are now registered like vanilla's, so they resolve their block.* key instead of looking for an item.* key that never existed.
 - Re-ported the localized names from the official Minecraft 26.3 language files. The concrete stairs and slabs, the explorer maps and thousands of other entries were still showing English in every language.
