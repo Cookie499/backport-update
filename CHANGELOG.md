@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+- Fixed the development-client startup crash "Data fixer not registered for: minecraft:cushion in entity_tree". The backported entity types (cushion, poplar boat, poplar chest boat) are unknown to this version's data fixer schema, which is expected; the lookup now answers without a fixer instead of going through the failing path. That also stops "No data fixer registered for ..." from filling the log.
+- Fixed the crash "Critical injection failure: @Redirect annotation on backport$spareTeammates could not find any targets matching 'hurtEntities(Ljava/util/List;)V'". The explosion friendly-fire fix now targets the 26.2 signature, which takes no arguments.
+
 ## 1.1.0
 - Fixed the poplar signs and hanging signs rendering with no wooden geometry (only the text showed). Their blockstates and models were missing: the generated resources had a single bogus variant pointing at a particle-only stub, so the 14 template-based models (poplar_sign_rot_0-3, poplar_wall_sign, poplar_hanging_sign_rot_0-3, poplar_hanging_sign_attached_rot_0-3, poplar_wall_hanging_sign) and the 16/32-variant blockstates vanilla uses were generated.
 - Fixed the poplar sign and hanging sign items showing their raw translation key: signs are block-backed, so like vanilla's they now resolve block.minecraft.* rather than an item.minecraft.* key.
