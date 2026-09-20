@@ -23,7 +23,7 @@ public class ExplosionMixin {
     private Entity source;
 
     @Redirect(
-            method = "hurtEntities(Ljava/util/List;)V",
+            method = "hurtEntities()V",
             at = @At(value = "INVOKE",
                     target = "Lnet/minecraft/world/level/ExplosionDamageCalculator;shouldDamageEntity"
                             + "(Lnet/minecraft/world/level/Explosion;Lnet/minecraft/world/entity/Entity;)Z"))
