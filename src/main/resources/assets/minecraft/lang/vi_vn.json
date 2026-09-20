@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Bản đồ khám phá rừng sâu",
   "item.minecraft.yellow_cushion": "Nệm vàng",
   "stat.minecraft.sleep_in_straw_bed": "Số lần ngủ trên giường rơm",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Lá xào xạc",
   "subtitles.minecraft.shelf_mushroom.bounce": "Có gì đó nảy trên nấm hình quạt",
   "subtitles.minecraft.shelf_mushroom.break": "Khối bị phá",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Đệm bị phá",
   "subtitles.minecraft.cushion.place": "Đệm đã được đặt",
   "subtitles.minecraft.cushion.sit": "Ngồi trên đệm",
-  "subtitles.minecraft.cushion.get_up": "Đứng dậy khỏi đệm"
+  "subtitles.minecraft.cushion.get_up": "Đứng dậy khỏi đệm",
+  "item.minecraft.poplar_boat": "Thuyền gỗ dương",
+  "item.minecraft.poplar_chest_boat": "Thuyền gỗ dương có rương"
 }

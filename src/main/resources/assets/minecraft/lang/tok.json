@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "sitelen ma pi tomo pimeja suli",
   "item.minecraft.yellow_cushion": "supa len monsi jelo",
   "stat.minecraft.sleep_in_straw_bed": "mute lape pi supa lape pan",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "kon li tawa e lipu kasi",
   "subtitles.minecraft.shelf_mushroom.bounce": "Something bounces on a Shelf Mushroom",
   "subtitles.minecraft.shelf_mushroom.break": "ijo li pakala",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "supa len monsi li pakala",
   "subtitles.minecraft.cushion.place": "jan li pana e supa len monsi",
   "subtitles.minecraft.cushion.sit": "ijo li kama lon supa len monsi",
-  "subtitles.minecraft.cushion.get_up": "ijo li weka tan supa len monsi"
+  "subtitles.minecraft.cushion.get_up": "ijo li weka tan supa len monsi",
+  "item.minecraft.poplar_boat": "ilo tawa telo pi kasi loje",
+  "item.minecraft.poplar_chest_boat": "poki lon ilo tawa telo pi kasi loje"
 }

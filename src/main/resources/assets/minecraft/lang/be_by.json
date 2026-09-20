@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Карта даследчыка ляснога маёнтка",
   "item.minecraft.yellow_cushion": "Жоўтая падушка",
   "stat.minecraft.sleep_in_straw_bed": "Начэй у саламяным ложку",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Лісце шамаціць",
   "subtitles.minecraft.shelf_mushroom.bounce": "Нешта адскочыла ад губы",
   "subtitles.minecraft.shelf_mushroom.break": "Блок зламаны",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Падушка зламана",
   "subtitles.minecraft.cushion.place": "Падушка размешчана",
   "subtitles.minecraft.cushion.sit": "На падушку селі",
-  "subtitles.minecraft.cushion.get_up": "З падушкі падняліся"
+  "subtitles.minecraft.cushion.get_up": "З падушкі падняліся",
+  "item.minecraft.poplar_boat": "Таполевы човен",
+  "item.minecraft.poplar_chest_boat": "Таполевы човен з куфрам"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Karta dasledčyka lasnoha majontka",
   "item.minecraft.yellow_cushion": "Žoŭtaja paduška",
   "stat.minecraft.sleep_in_straw_bed": "Načej u sałamianym łožku",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Liscie šamacić",
   "subtitles.minecraft.shelf_mushroom.bounce": "Niešta adskoknuła ad trutavika",
   "subtitles.minecraft.shelf_mushroom.break": "Błok złamany",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Paduška złamana",
   "subtitles.minecraft.cushion.place": "Paduška razmieščana",
   "subtitles.minecraft.cushion.sit": "Na padušku sieli",
-  "subtitles.minecraft.cushion.get_up": "Z paduški padnialisia"
+  "subtitles.minecraft.cushion.get_up": "Z paduški padnialisia",
+  "item.minecraft.poplar_boat": "Tapolevy čovien",
+  "item.minecraft.poplar_chest_boat": "Tapolevy čovien z kufram"
 }

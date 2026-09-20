@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "מפת חוקר של אחוזת ארץ העץ",
   "item.minecraft.yellow_cushion": "כרית צהובה",
   "stat.minecraft.sleep_in_straw_bed": "פעמים שישנת במיטת קש",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "עלים מרשרשים",
   "subtitles.minecraft.shelf_mushroom.bounce": "משהו קופץ על פטריית מדף",
   "subtitles.minecraft.shelf_mushroom.break": "בלוק נשבר",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "כרית נשברת",
   "subtitles.minecraft.cushion.place": "כרית הונחה",
   "subtitles.minecraft.cushion.sit": "יושב על כרית",
-  "subtitles.minecraft.cushion.get_up": "קם מהכרית"
+  "subtitles.minecraft.cushion.get_up": "קם מהכרית",
+  "item.minecraft.poplar_boat": "סירת צפצפה",
+  "item.minecraft.poplar_chest_boat": "סירת צפצפה עם תיבה"
 }

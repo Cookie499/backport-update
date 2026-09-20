@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Χάρτης Εξερευνητή Δάσους",
   "item.minecraft.yellow_cushion": "Κίτρινο Μαξιλάρι",
   "stat.minecraft.sleep_in_straw_bed": "Αριθμός Ύπνων σε Κρεβάτι Αχύρου",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Θρόισμα φύλλων",
   "subtitles.minecraft.shelf_mushroom.bounce": "Κάτι αναπηδάει πάνω σε έναν Πολύπορο",
   "subtitles.minecraft.shelf_mushroom.break": "Κύβος σπάει",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Μαξιλάρι σπάει",
   "subtitles.minecraft.cushion.place": "Μαξιλάρι τοποθετείται",
   "subtitles.minecraft.cushion.sit": "Κάθεται σε Μαξιλάρι",
-  "subtitles.minecraft.cushion.get_up": "Σηκώνεται από Μαξιλάρι"
+  "subtitles.minecraft.cushion.get_up": "Σηκώνεται από Μαξιλάρι",
+  "item.minecraft.poplar_boat": "Βάρκα Λεύκας",
+  "item.minecraft.poplar_chest_boat": "Βάρκα Λεύκας με Σεντούκι"
 }

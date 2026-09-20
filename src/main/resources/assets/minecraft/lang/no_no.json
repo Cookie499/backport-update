@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Oppdagelseskart over skogmark",
   "item.minecraft.yellow_cushion": "Gul pute",
   "stat.minecraft.sleep_in_straw_bed": "Ganger sovet i en stråseng",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Løv rasler",
   "subtitles.minecraft.shelf_mushroom.bounce": "Noe spretter på en kjukesopp",
   "subtitles.minecraft.shelf_mushroom.break": "Blokk ødelagt",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Pute ødelegges",
   "subtitles.minecraft.cushion.place": "Pute plasseres",
   "subtitles.minecraft.cushion.sit": "Pute sittes på",
-  "subtitles.minecraft.cushion.get_up": "Pute reises opp fra"
+  "subtitles.minecraft.cushion.get_up": "Pute reises opp fra",
+  "item.minecraft.poplar_boat": "Poppelbåt",
+  "item.minecraft.poplar_chest_boat": "Poppelbåt med kiste"
 }

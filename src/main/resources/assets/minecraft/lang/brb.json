@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Landkaart met boslandhuis",
   "item.minecraft.yellow_cushion": "Geel kussen",
   "stat.minecraft.sleep_in_straw_bed": "Keren in strobed geslapen",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Bladeren ruisen",
   "subtitles.minecraft.shelf_mushroom.bounce": "Iets stuitert op een elfenbankje",
   "subtitles.minecraft.shelf_mushroom.break": "Blok breekt",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Kussen breekt",
   "subtitles.minecraft.cushion.place": "Kussen wordt geplaatst",
   "subtitles.minecraft.cushion.sit": "Kussen geeft mee",
-  "subtitles.minecraft.cushion.get_up": "Kussen veert op"
+  "subtitles.minecraft.cushion.get_up": "Kussen veert op",
+  "item.minecraft.poplar_boat": "Populierenhouten boot",
+  "item.minecraft.poplar_chest_boat": "Populierenhouten boot met kist"
 }

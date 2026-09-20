@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Kwatitlan ohtokalistlālīxnēskāyōtl",
   "item.minecraft.yellow_cushion": "Kōstik kwachpepechtli",
   "stat.minecraft.sleep_in_straw_bed": "Weltah tikochki sē pachtlapechpan",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Tlaxamāni",
   "subtitles.minecraft.shelf_mushroom.bounce": "Tlachocholni sē tlamantli īpan sē ākōnnanakatl",
   "subtitles.minecraft.shelf_mushroom.break": "Tlapānki xamixtli",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Tlapāni kwachpepechtli",
   "subtitles.minecraft.cushion.place": "Motlālia kwachpepechtli",
   "subtitles.minecraft.cushion.sit": "Mosēwia kwachpepechpan",
-  "subtitles.minecraft.cushion.get_up": "Mēwa tlen kwachpepechtli"
+  "subtitles.minecraft.cushion.get_up": "Mēwa tlen kwachpepechtli",
+  "item.minecraft.poplar_boat": "Xīkalkwawākalli",
+  "item.minecraft.poplar_chest_boat": "Xīkalkwawākalli īka kwapetlakalli"
 }

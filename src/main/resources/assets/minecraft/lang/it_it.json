@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mappa per magione della foresta",
   "item.minecraft.yellow_cushion": "Cuscino giallo",
   "stat.minecraft.sleep_in_straw_bed": "Notti passate in un pagliericcio",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Fruscio di foglie",
   "subtitles.minecraft.shelf_mushroom.bounce": "Rimbalzo su fungo",
   "subtitles.minecraft.shelf_mushroom.break": "Blocco distrutto",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Cuscino rimosso",
   "subtitles.minecraft.cushion.place": "Cuscino piazzato",
   "subtitles.minecraft.cushion.sit": "Cuscino occupato",
-  "subtitles.minecraft.cushion.get_up": "Cuscino liberato"
+  "subtitles.minecraft.cushion.get_up": "Cuscino liberato",
+  "item.minecraft.poplar_boat": "Barca di pioppo",
+  "item.minecraft.poplar_chest_boat": "Barca di pioppo con baule"
 }

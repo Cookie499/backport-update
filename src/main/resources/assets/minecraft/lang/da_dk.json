@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Skovopdagelseskort",
   "item.minecraft.yellow_cushion": "Gul hynde",
   "stat.minecraft.sleep_in_straw_bed": "Antal gange sovet i en halmseng",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Blade rasler",
   "subtitles.minecraft.shelf_mushroom.bounce": "Noget hopper på en hyldesvamp",
   "subtitles.minecraft.shelf_mushroom.break": "Blok ødelagt",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Hynde ødelægges",
   "subtitles.minecraft.cushion.place": "Hynde placeret",
   "subtitles.minecraft.cushion.sit": "Sætter sig på hynde",
-  "subtitles.minecraft.cushion.get_up": "Rejser sig fra hynde"
+  "subtitles.minecraft.cushion.get_up": "Rejser sig fra hynde",
+  "item.minecraft.poplar_boat": "Poppelbåd",
+  "item.minecraft.poplar_chest_boat": "Poppelbåd med kiste"
 }

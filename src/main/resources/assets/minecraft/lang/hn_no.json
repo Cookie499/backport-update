@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Grenskekort fyre herregard i skogem",
   "item.minecraft.yellow_cushion": "Gult høgjende",
   "stat.minecraft.sleep_in_straw_bed": "Tid sovet i høyseng",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Lauv skråvar",
   "subtitles.minecraft.shelf_mushroom.bounce": "Nokot sprett på kjuka",
   "subtitles.minecraft.shelf_mushroom.break": "Blokk broti",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Høgjende brotnar",
   "subtitles.minecraft.cushion.place": "Høgjende sett ned",
   "subtitles.minecraft.cushion.sit": "Sit på høgjende",
-  "subtitles.minecraft.cushion.get_up": "Stend upp frå høgjende"
+  "subtitles.minecraft.cushion.get_up": "Stend upp frå høgjende",
+  "item.minecraft.poplar_boat": "Ospebåt",
+  "item.minecraft.poplar_chest_boat": "Ospebåt med kista"
 }

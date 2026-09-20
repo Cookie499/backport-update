@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "ngem juH qach'a' tlharghwI' pu'jIn",
   "item.minecraft.yellow_cushion": "SuDbogh quS 'ej wovqu'bogh",
   "stat.minecraft.sleep_in_straw_bed": "'arlogh magh QongDaqDaq bIQong",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "'e'qIn lutlhen por",
   "subtitles.minecraft.shelf_mushroom.bounce": "yorgh 'atlhqamvo' 'et vay'",
   "subtitles.minecraft.shelf_mushroom.break": "buq'Ir ghorta'",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "quS ghor",
   "subtitles.minecraft.cushion.place": "quS lan",
   "subtitles.minecraft.cushion.sit": "quSDaq ba'",
-  "subtitles.minecraft.cushion.get_up": "quSvo' Hu'"
+  "subtitles.minecraft.cushion.get_up": "quSvo' Hu'",
+  "item.minecraft.poplar_boat": "paplar Sor bIQ Duj",
+  "item.minecraft.poplar_chest_boat": "DerlIq ngaSbogh paplar Sor bIQ Duj"
 }

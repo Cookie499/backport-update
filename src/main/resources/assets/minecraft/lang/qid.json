@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Peta pendjeladjah hoetan gelap",
   "item.minecraft.yellow_cushion": "Metai koening",
   "stat.minecraft.sleep_in_straw_bed": "Kali tidoer dikasoer djerami",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Daoen-daoen bergemeresik",
   "subtitles.minecraft.shelf_mushroom.bounce": "Sesoeatoe memantoel pada djamoer kajoe",
   "subtitles.minecraft.shelf_mushroom.break": "Balok hantjoer",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Metai hantjoer",
   "subtitles.minecraft.cushion.place": "Metai ditaroeh",
   "subtitles.minecraft.cushion.sit": "Doedoek dimetai",
-  "subtitles.minecraft.cushion.get_up": "Berdiri dari metai"
+  "subtitles.minecraft.cushion.get_up": "Berdiri dari metai",
+  "item.minecraft.poplar_boat": "Perahoe populier",
+  "item.minecraft.poplar_chest_boat": "Perahoe populier dengan peti"
 }

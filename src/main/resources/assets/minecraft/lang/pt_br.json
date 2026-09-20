@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa de Exploração da Floresta",
   "item.minecraft.yellow_cushion": "Almofada Amarela",
   "stat.minecraft.sleep_in_straw_bed": "Descansos numa Cama de Palha",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Folhas farfalham",
   "subtitles.minecraft.shelf_mushroom.bounce": "Algo salta num Políporo",
   "subtitles.minecraft.shelf_mushroom.break": "Bloco quebrado",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Almofada quebrada",
   "subtitles.minecraft.cushion.place": "Almofada colocada",
   "subtitles.minecraft.cushion.sit": "Almofada ocupada",
-  "subtitles.minecraft.cushion.get_up": "Almofada desocupada"
+  "subtitles.minecraft.cushion.get_up": "Almofada desocupada",
+  "item.minecraft.poplar_boat": "Bote de Álamo",
+  "item.minecraft.poplar_chest_boat": "Bote de Álamo com Baú"
 }

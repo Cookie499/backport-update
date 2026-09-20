@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Waldawese-Entdeckercharte",
   "item.minecraft.yellow_cushion": "Gelbs Chüssi",
   "stat.minecraft.sleep_in_straw_bed": "Stohbett verwendet",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Laub raschlet",
   "subtitles.minecraft.shelf_mushroom.bounce": "Porling federet öppis",
   "subtitles.minecraft.shelf_mushroom.break": "Block zerstört",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Chüssi riisst",
   "subtitles.minecraft.cushion.place": "Chüssi platziert",
   "subtitles.minecraft.cushion.sit": "Setzt sich uf Chüssi",
-  "subtitles.minecraft.cushion.get_up": "Erhebt sich vom Chüssi"
+  "subtitles.minecraft.cushion.get_up": "Erhebt sich vom Chüssi",
+  "item.minecraft.poplar_boat": "Pappelholzboot",
+  "item.minecraft.poplar_chest_boat": "Pappelholzchisteboot"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Çatılı Orman Kâşif Haritası",
   "item.minecraft.yellow_cushion": "Sarı Minder",
   "stat.minecraft.sleep_in_straw_bed": "Uyunan Hasır Yataklar",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Yapraklar hışırdıyor",
   "subtitles.minecraft.shelf_mushroom.bounce": "Bir şey Kav Mantarı üzerinde zıpladı",
   "subtitles.minecraft.shelf_mushroom.break": "Blok kırıldı",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Minder kırıldı",
   "subtitles.minecraft.cushion.place": "Minder yerleştirildi",
   "subtitles.minecraft.cushion.sit": "Mindere oturdu",
-  "subtitles.minecraft.cushion.get_up": "Minderden kalktı"
+  "subtitles.minecraft.cushion.get_up": "Minderden kalktı",
+  "item.minecraft.poplar_boat": "Kavak Ağacı Tekne",
+  "item.minecraft.poplar_chest_boat": "Sandıklı Kavak Ağacı Tekne"
 }

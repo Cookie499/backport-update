@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa d'exploració de bosc",
   "item.minecraft.yellow_cushion": "Coixí groc",
   "stat.minecraft.sleep_in_straw_bed": "Dormides en llit de palla",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Fulles cruixint",
   "subtitles.minecraft.shelf_mushroom.bounce": "Quelcom rebota en un fong de prestatgeria",
   "subtitles.minecraft.shelf_mushroom.break": "Bloc trencat",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "S'ha trencat un coixí",
   "subtitles.minecraft.cushion.place": "S'ha col·locat un coixí",
   "subtitles.minecraft.cushion.sit": "S'ha assegut en un coixí",
-  "subtitles.minecraft.cushion.get_up": "S'ha alçat d'un coixí"
+  "subtitles.minecraft.cushion.get_up": "S'ha alçat d'un coixí",
+  "item.minecraft.poplar_boat": "Barca de xop",
+  "item.minecraft.poplar_chest_boat": "Barca de xop amb cofre"
 }

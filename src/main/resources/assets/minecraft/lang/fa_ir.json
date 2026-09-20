@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "نقشه کاوش عمارت جنگلی",
   "item.minecraft.yellow_cushion": "کوسن زرد",
   "stat.minecraft.sleep_in_straw_bed": "دفعات خواب در تخت کاهی",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "خش‌ خش برگ‌ ها",
   "subtitles.minecraft.shelf_mushroom.bounce": "چيزی روی قارچ قفسه ای پريد",
   "subtitles.minecraft.shelf_mushroom.break": "بلوک شکست",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "کوسن میشکند",
   "subtitles.minecraft.cushion.place": "کوسن گذاشته شد",
   "subtitles.minecraft.cushion.sit": "روی کوسن مینشیند",
-  "subtitles.minecraft.cushion.get_up": "از کوسن بلند میشود"
+  "subtitles.minecraft.cushion.get_up": "از کوسن بلند میشود",
+  "item.minecraft.poplar_boat": "قايق سپيدار",
+  "item.minecraft.poplar_chest_boat": "قايق سپيدار با صندوقچه"
 }

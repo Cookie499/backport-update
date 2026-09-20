@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa k lesnímu sídlu",
   "item.minecraft.yellow_cushion": "Žlutý polštář",
   "stat.minecraft.sleep_in_straw_bed": "Stráveno na slamníku",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "šumění listí",
   "subtitles.minecraft.shelf_mushroom.bounce": "Něco se odráží od choroše",
   "subtitles.minecraft.shelf_mushroom.break": "blok zničen",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "polštář byl zničen",
   "subtitles.minecraft.cushion.place": "polštář byl položen",
   "subtitles.minecraft.cushion.sit": "usednutí na polštář",
-  "subtitles.minecraft.cushion.get_up": "vstávání z polštáře"
+  "subtitles.minecraft.cushion.get_up": "vstávání z polštáře",
+  "item.minecraft.poplar_boat": "Člun z topolu",
+  "item.minecraft.poplar_chest_boat": "Člun z topolu s truhlou"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "Cúisín Buí",
   "stat.minecraft.sleep_in_straw_bed": "Oícheanta i Leaba Tuí",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Leaves rustling",
   "subtitles.minecraft.shelf_mushroom.bounce": "Something bounces on a Shelf Mushroom",
   "subtitles.minecraft.shelf_mushroom.break": "Briseadh bloc",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Cúisín ag briseadh",
   "subtitles.minecraft.cushion.place": "Cúisín á chur",
   "subtitles.minecraft.cushion.sit": "Suí ar Chúisín",
-  "subtitles.minecraft.cushion.get_up": "Éirí ó Chúisín"
+  "subtitles.minecraft.cushion.get_up": "Éirí ó Chúisín",
+  "item.minecraft.poplar_boat": "Bád Poibleoige",
+  "item.minecraft.poplar_chest_boat": "Bád Poibleoige le Cófa"
 }

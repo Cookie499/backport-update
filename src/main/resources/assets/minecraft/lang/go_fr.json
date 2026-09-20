@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Carte d'exploration des bois",
   "item.minecraft.yellow_cushion": "Coussin jaune",
   "stat.minecraft.sleep_in_straw_bed": "Nuits passées dans un lit de paille",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Bruissement de feuilles",
   "subtitles.minecraft.shelf_mushroom.bounce": "Qheuqes chôze a redonder su un potiron pllat",
   "subtitles.minecraft.shelf_mushroom.break": "Blloqe câssë",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Coussin détruit",
   "subtitles.minecraft.cushion.place": "Coussin placé",
   "subtitles.minecraft.cushion.sit": "S'assoit sur un coussin",
-  "subtitles.minecraft.cushion.get_up": "Se lève d'un coussin"
+  "subtitles.minecraft.cushion.get_up": "Se lève d'un coussin",
+  "item.minecraft.poplar_boat": "Batè en peupelier",
+  "item.minecraft.poplar_chest_boat": "Batè en peupelier d'eqhipet"
 }

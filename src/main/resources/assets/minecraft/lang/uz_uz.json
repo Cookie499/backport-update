@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "O'rmondagi tadqiqotchi xaritasi",
   "item.minecraft.yellow_cushion": "Sariq ko'rpacha",
   "stat.minecraft.sleep_in_straw_bed": "Poxol to'shakda uxladingiz",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Barglar shovullamoqda",
   "subtitles.minecraft.shelf_mushroom.bounce": "Daraxt qo'ziqorinidan sakrash",
   "subtitles.minecraft.shelf_mushroom.break": "Blok buzildi",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Ko'rpacha sindi",
   "subtitles.minecraft.cushion.place": "Ko'rpacha qo'yildi",
   "subtitles.minecraft.cushion.sit": "Ko'rpachaga o'tirdi",
-  "subtitles.minecraft.cushion.get_up": "Ko'rpachadan turdi"
+  "subtitles.minecraft.cushion.get_up": "Ko'rpachadan turdi",
+  "item.minecraft.poplar_boat": "Terak qayiq",
+  "item.minecraft.poplar_chest_boat": "Sandiqli terak qayiq"
 }

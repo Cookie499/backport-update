@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "森林探検家の地図",
   "item.minecraft.yellow_cushion": "黄色のクッション",
   "stat.minecraft.sleep_in_straw_bed": "藁のベッドで寝た回数",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "葉がささめく",
   "subtitles.minecraft.shelf_mushroom.bounce": "サルノコシカケで何かが跳ねる",
   "subtitles.minecraft.shelf_mushroom.break": "ブロックが破壊される",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "クッションが破壊される",
   "subtitles.minecraft.cushion.place": "クッションが設置される",
   "subtitles.minecraft.cushion.sit": "クッションに座る",
-  "subtitles.minecraft.cushion.get_up": "クッションから立ち上がる"
+  "subtitles.minecraft.cushion.get_up": "クッションから立ち上がる",
+  "item.minecraft.poplar_boat": "ポプラのボート",
+  "item.minecraft.poplar_chest_boat": "チェスト付きのポプラのボート"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mappa tat-Tfittix tal-Palazz tal-Bosk",
   "item.minecraft.yellow_cushion": "Imħadda Safra",
   "stat.minecraft.sleep_in_straw_bed": "Drabi li Rqadt fuq Saqqu tat-Tiben",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Weraq iħaxwex",
   "subtitles.minecraft.shelf_mushroom.bounce": "Xi ħaġa taqbeż fuq Lixka",
   "subtitles.minecraft.shelf_mushroom.break": "Blokka tinkiser",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Imħadda tinkiser",
   "subtitles.minecraft.cushion.place": "Imħadda titpoġġa",
   "subtitles.minecraft.cushion.sit": "Bilqiegħda fuq Imħadda",
-  "subtitles.minecraft.cushion.get_up": "Qawmien minn fuq Imħadda"
+  "subtitles.minecraft.cushion.get_up": "Qawmien minn fuq Imħadda",
+  "item.minecraft.poplar_boat": "Dgħajsa tal-Luq",
+  "item.minecraft.poplar_chest_boat": "Dgħajsa tal-Luq b'Senduq"
 }

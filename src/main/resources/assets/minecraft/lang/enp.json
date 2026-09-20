@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Seeker Draft",
   "item.minecraft.yellow_cushion": "Yellow Bolster",
   "stat.minecraft.sleep_in_straw_bed": "Times Slept in a Straw Bed",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Leaves rustling",
   "subtitles.minecraft.shelf_mushroom.bounce": "Something springs on a Shelfswamb",
   "subtitles.minecraft.shelf_mushroom.break": "Clot broken",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Bolster breaks",
   "subtitles.minecraft.cushion.place": "Bolster laid",
   "subtitles.minecraft.cushion.sit": "Sits on Bolster",
-  "subtitles.minecraft.cushion.get_up": "Gets up from Bolster"
+  "subtitles.minecraft.cushion.get_up": "Gets up from Bolster",
+  "item.minecraft.poplar_boat": "Aspen Boat",
+  "item.minecraft.poplar_chest_boat": "Aspen Boat with Chest"
 }

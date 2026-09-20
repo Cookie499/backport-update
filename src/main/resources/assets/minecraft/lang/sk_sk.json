@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa na prieskum lesa",
   "item.minecraft.yellow_cushion": "Žltá poduška",
   "stat.minecraft.sleep_in_straw_bed": "Spánkov v slamenej posteli",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Šušťanie listov",
   "subtitles.minecraft.shelf_mushroom.bounce": "Odrážanie čohosi na stromovej hube",
   "subtitles.minecraft.shelf_mushroom.break": "Zničenie kocky",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Zničenie podušky",
   "subtitles.minecraft.cushion.place": "Položenie podušky",
   "subtitles.minecraft.cushion.sit": "Sadnutie na podušku",
-  "subtitles.minecraft.cushion.get_up": "Vstanie z podušky"
+  "subtitles.minecraft.cushion.get_up": "Vstanie z podušky",
+  "item.minecraft.poplar_boat": "Topoľový čln",
+  "item.minecraft.poplar_chest_boat": "Topoľový čln s truhlicou"
 }

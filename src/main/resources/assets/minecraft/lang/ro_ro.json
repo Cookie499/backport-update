@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Hartă de explorare a pădurilor",
   "item.minecraft.yellow_cushion": "Pernă galbenă",
   "stat.minecraft.sleep_in_straw_bed": "Nopți dormite într-un pat de paie",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Frunzele foșnesc",
   "subtitles.minecraft.shelf_mushroom.bounce": "Ceva sare pe un polipor",
   "subtitles.minecraft.shelf_mushroom.break": "Blocul s-a spart",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Perna este ridicată",
   "subtitles.minecraft.cushion.place": "Perna se așează",
   "subtitles.minecraft.cushion.sit": "Se așează pe pernă",
-  "subtitles.minecraft.cushion.get_up": "Se ridică de pe pernă"
+  "subtitles.minecraft.cushion.get_up": "Se ridică de pe pernă",
+  "item.minecraft.poplar_boat": "Barcă de plop",
+  "item.minecraft.poplar_chest_boat": "Barcă de plop cu cufăr"
 }

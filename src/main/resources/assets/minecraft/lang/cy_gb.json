@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Map Chwilotwr Coedwig",
   "item.minecraft.yellow_cushion": "Clustog Felen",
   "stat.minecraft.sleep_in_straw_bed": "Amseroedd Cysgwyd mewn Gwely Gwair",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Dail yn siffrwd",
   "subtitles.minecraft.shelf_mushroom.bounce": "Rhywbeth yn bownsio ar Fadarchen Silff",
   "subtitles.minecraft.shelf_mushroom.break": "Bloc wedi'i dorri",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Clustog yn torri",
   "subtitles.minecraft.cushion.place": "Clustog wedi'i gosod",
   "subtitles.minecraft.cushion.sit": "Eistedd ar Glustog",
-  "subtitles.minecraft.cushion.get_up": "Yn codi oddi ar Glustog"
+  "subtitles.minecraft.cushion.get_up": "Yn codi oddi ar Glustog",
+  "item.minecraft.poplar_boat": "Cwch Poplys",
+  "item.minecraft.poplar_chest_boat": "Cwch Poplys â Chist"
 }

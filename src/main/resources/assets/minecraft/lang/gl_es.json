@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "Coxín amarelo",
   "stat.minecraft.sleep_in_straw_bed": "Veces que durmiches nunha cama de palla",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Rumoreo de follas",
   "subtitles.minecraft.shelf_mushroom.bounce": "Algo rebota nun fungo de andel",
   "subtitles.minecraft.shelf_mushroom.break": "Bloque roto",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "O coxín rómpese",
   "subtitles.minecraft.cushion.place": "Colócase un coxín",
   "subtitles.minecraft.cushion.sit": "Sinta no coxín",
-  "subtitles.minecraft.cushion.get_up": "Levántase do coxín"
+  "subtitles.minecraft.cushion.get_up": "Levántase do coxín",
+  "item.minecraft.poplar_boat": "Barca de chopo",
+  "item.minecraft.poplar_chest_boat": "Barca de chopo con cofre"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapang Panggalugad ng Mansyon sa Kakahuyan",
   "item.minecraft.yellow_cushion": "Dilaw na Kutson",
   "stat.minecraft.sleep_in_straw_bed": "Beses natulog sa Papag na Dayami",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Kumakaluskos ang dahon",
   "subtitles.minecraft.shelf_mushroom.bounce": "May tumalbog sa Kulat",
   "subtitles.minecraft.shelf_mushroom.break": "Nasira ang bloke",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Nawasak ang Kutson",
   "subtitles.minecraft.cushion.place": "Naglagay ng Kutson",
   "subtitles.minecraft.cushion.sit": "Umupo sa Kutson",
-  "subtitles.minecraft.cushion.get_up": "Tumayo galing sa Kutson"
+  "subtitles.minecraft.cushion.get_up": "Tumayo galing sa Kutson",
+  "item.minecraft.poplar_boat": "Alamong Bangka",
+  "item.minecraft.poplar_chest_boat": "Alamong Bangkang may Baul"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Erdei kastély térképe",
   "item.minecraft.yellow_cushion": "Sárga párna",
   "stat.minecraft.sleep_in_straw_bed": "Szalmaágyon töltött éjszakák",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Levélzörgés",
   "subtitles.minecraft.shelf_mushroom.bounce": "Valami egy taplógombán pattan",
   "subtitles.minecraft.shelf_mushroom.break": "Blokk törik",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Párna szétesik",
   "subtitles.minecraft.cushion.place": "Párna lerakása",
   "subtitles.minecraft.cushion.sit": "Játékos leül egy párnára",
-  "subtitles.minecraft.cushion.get_up": "Játékos felláll a párnáról"
+  "subtitles.minecraft.cushion.get_up": "Játékos felláll a párnáról",
+  "item.minecraft.poplar_boat": "Nyárfa csónak",
+  "item.minecraft.poplar_chest_boat": "Nyárfa csónak ládával"
 }

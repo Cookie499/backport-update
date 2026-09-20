@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Charta exploratoris ad villam silvestrem",
   "item.minecraft.yellow_cushion": "Pulvinus flavus",
   "stat.minecraft.sleep_in_straw_bed": "Quotienscumque dormisti in lecto stramenticio",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Folia crepitant",
   "subtitles.minecraft.shelf_mushroom.bounce": "Aliquid in polyporo salit",
   "subtitles.minecraft.shelf_mushroom.break": "Cubus fractus",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Pulvinus frangitur",
   "subtitles.minecraft.cushion.place": "Pulvinus collocatus",
   "subtitles.minecraft.cushion.sit": "In pulvino sedet",
-  "subtitles.minecraft.cushion.get_up": "Ex pulvino surgit"
+  "subtitles.minecraft.cushion.get_up": "Ex pulvino surgit",
+  "item.minecraft.poplar_boat": "Ratis populea",
+  "item.minecraft.poplar_chest_boat": "Ratis populea cum cista"
 }

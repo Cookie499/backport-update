@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "K'anal kojin",
   "stat.minecraft.sleep_in_straw_bed": "Veltaetik ta bu lavay ta jkot tem ta anjobel",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Xch'ak'ak'et li analetike",
   "subtitles.minecraft.shelf_mushroom.bounce": "Oy k'usi cht'enolan ta jtop'ol repisamoni'",
   "subtitles.minecraft.shelf_mushroom.break": "Sokem li kuboe",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Ta sok li kojine",
   "subtitles.minecraft.cushion.place": "Kojin ak'bil",
   "subtitles.minecraft.cushion.sit": "Chchotij ta kojin",
-  "subtitles.minecraft.cushion.get_up": "Chlik ta kojin"
+  "subtitles.minecraft.cushion.get_up": "Chlik ta kojin",
+  "item.minecraft.poplar_boat": "Varko ta alamo",
+  "item.minecraft.poplar_chest_boat": "Varko ta alamo xchi'uk kaxa"
 }

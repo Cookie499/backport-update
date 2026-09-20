@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa de mansión del bosque",
   "item.minecraft.yellow_cushion": "Cojín amarillo",
   "stat.minecraft.sleep_in_straw_bed": "Las veces que dormí en una cama de paja",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Susurro de las hojas",
   "subtitles.minecraft.shelf_mushroom.bounce": "Algo rebota sobre un hongo de estante",
   "subtitles.minecraft.shelf_mushroom.break": "Bloque roto",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "El cojín se rompe",
   "subtitles.minecraft.cushion.place": "Cojín colocado",
   "subtitles.minecraft.cushion.sit": "Se sienta sobre un cojín",
-  "subtitles.minecraft.cushion.get_up": "Se levanta del cojín"
+  "subtitles.minecraft.cushion.get_up": "Se levanta del cojín",
+  "item.minecraft.poplar_boat": "Barco de álamo",
+  "item.minecraft.poplar_chest_boat": "Barco de álamo con cofre"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "Kojin sine",
   "stat.minecraft.sleep_in_straw_bed": "Thìe kè bàrichrìntaꞌá naá saun kàchji",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Dinetaón kà",
   "subtitles.minecraft.shelf_mushroom.bounce": "Naá keꞌe chrínkàtaꞌá naá kuchrjuì repiisa",
   "subtitles.minecraft.shelf_mushroom.break": "Kuubo chjejin",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Kojin chjejin",
   "subtitles.minecraft.cushion.place": "Bàkèꞌè kojin",
   "subtitles.minecraft.cushion.sit": "Xenduataꞌá kojin",
-  "subtitles.minecraft.cushion.get_up": "Dingathjenxín kojin"
+  "subtitles.minecraft.cushion.get_up": "Dingathjenxín kojin",
+  "item.minecraft.poplar_boat": "Nthàboote nthàálamo",
+  "item.minecraft.poplar_chest_boat": "Nthàboote nthàálamo kuníxin nthàkajón"
 }

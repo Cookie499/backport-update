@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mežu Savrupmājas Meklētāja Karte",
   "item.minecraft.yellow_cushion": "Dzeltens Spilvens",
   "stat.minecraft.sleep_in_straw_bed": "Reizes Gulētas Salmu Gultā",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Lapu čaukstēšana",
   "subtitles.minecraft.shelf_mushroom.bounce": "Kaut kas lēkā uz Piepes",
   "subtitles.minecraft.shelf_mushroom.break": "Bloks Sasists",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Spilvens saplīst",
   "subtitles.minecraft.cushion.place": "Spilvens novietots",
   "subtitles.minecraft.cushion.sit": "Sēž uz spilvena",
-  "subtitles.minecraft.cushion.get_up": "Pieceļas no spilvena"
+  "subtitles.minecraft.cushion.get_up": "Pieceļas no spilvena",
+  "item.minecraft.poplar_boat": "Papeles Laiva",
+  "item.minecraft.poplar_chest_boat": "Papeles Laiva ar Lādi"
 }

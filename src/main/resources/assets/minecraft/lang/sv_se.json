@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Karta över skogsherrgård",
   "item.minecraft.yellow_cushion": "Gul kudde",
   "stat.minecraft.sleep_in_straw_bed": "Antalet gånger du sovit på en halmbädd",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Löv prasslar",
   "subtitles.minecraft.shelf_mushroom.bounce": "Någonting studsar på en ticka",
   "subtitles.minecraft.shelf_mushroom.break": "Block förstörs",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Kudde förstörs",
   "subtitles.minecraft.cushion.place": "Kudde läggs ut",
   "subtitles.minecraft.cushion.sit": "Någon sätter sig på kudde",
-  "subtitles.minecraft.cushion.get_up": "Någon kliver upp från kudde"
+  "subtitles.minecraft.cushion.get_up": "Någon kliver upp från kudde",
+  "item.minecraft.poplar_boat": "Poppelbåt",
+  "item.minecraft.poplar_chest_boat": "Poppelbåt med kista"
 }

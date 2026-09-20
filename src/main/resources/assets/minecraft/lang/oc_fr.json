@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa d'exploracion de l'ostal dels bòsques",
   "item.minecraft.yellow_cushion": "Coissin jaune",
   "stat.minecraft.sleep_in_straw_bed": "Nuèches Passadas dins un lièch de palha",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Brusiment de la fuèlhas",
   "subtitles.minecraft.shelf_mushroom.bounce": "Quicòm sauta sus un polipòre",
   "subtitles.minecraft.shelf_mushroom.break": "Blòc trencat",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Coissin trencat",
   "subtitles.minecraft.cushion.place": "Coissin plaçat",
   "subtitles.minecraft.cushion.sit": "Quicòm s'assèta sus un coissin",
-  "subtitles.minecraft.cushion.get_up": "Quicòm se lèva d'un coissin"
+  "subtitles.minecraft.cushion.get_up": "Quicòm se lèva d'un coissin",
+  "item.minecraft.poplar_boat": "Batèl en pibol",
+  "item.minecraft.poplar_chest_boat": "Batèl en pibol amb còfre"
 }

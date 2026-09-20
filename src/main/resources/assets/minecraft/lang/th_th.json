@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "แผนที่สำรวจป่าไม้",
   "item.minecraft.yellow_cushion": "เบาะนั่งสีเหลือง",
   "stat.minecraft.sleep_in_straw_bed": "เวลาที่นอนบนเตียงฟาง",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "ใบไม้ดังกรอบแกรบ",
   "subtitles.minecraft.shelf_mushroom.bounce": "บางสิ่งเด้งบนเห็ดหิ้ง",
   "subtitles.minecraft.shelf_mushroom.break": "บล็อกถูกทุบ",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "เบาะนั่งพัง",
   "subtitles.minecraft.cushion.place": "เบาะนั่งถูกวาง",
   "subtitles.minecraft.cushion.sit": "นั่งบนเบาะนั่ง",
-  "subtitles.minecraft.cushion.get_up": "ลุกขึ้นจากเบาะนั่ง"
+  "subtitles.minecraft.cushion.get_up": "ลุกขึ้นจากเบาะนั่ง",
+  "item.minecraft.poplar_boat": "เรือไม้พอปลาร์",
+  "item.minecraft.poplar_chest_boat": "เรือไม้พอปลาร์พร้อมหีบ"
 }

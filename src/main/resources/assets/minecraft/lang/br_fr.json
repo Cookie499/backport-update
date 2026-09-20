@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Kartenn ergerzhiñ maner ar c'hoad",
   "item.minecraft.yellow_cushion": "Torchenn velen",
   "stat.minecraft.sleep_in_straw_bed": "Prantadoù kousk en ur gwele plouz",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Sarac'h an delioù",
   "subtitles.minecraft.shelf_mushroom.bounce": "Something bounces on a Shelf Mushroom",
   "subtitles.minecraft.shelf_mushroom.break": "Bloc'h torret",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Torchenn torret",
   "subtitles.minecraft.cushion.place": "Torchenn plaset",
   "subtitles.minecraft.cushion.sit": "Oc'h azezañ war un dorchenn",
-  "subtitles.minecraft.cushion.get_up": "Sevel diouzh an dorchenn"
+  "subtitles.minecraft.cushion.get_up": "Sevel diouzh an dorchenn",
+  "item.minecraft.poplar_boat": "Bag pupli",
+  "item.minecraft.poplar_chest_boat": "Bag pupli gant ur c'houfr"
 }

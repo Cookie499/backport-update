@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "पीला तकिया",
   "stat.minecraft.sleep_in_straw_bed": "Times Slept in a Straw Bed",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "पत्तियों की सरसराहट",
   "subtitles.minecraft.shelf_mushroom.bounce": "Something bounces on a Shelf Mushroom",
   "subtitles.minecraft.shelf_mushroom.break": "ब्लॉक तोड़ा",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "तकिये का टूटना",
   "subtitles.minecraft.cushion.place": "तकिया रखना",
   "subtitles.minecraft.cushion.sit": "तकिये पे बैठना",
-  "subtitles.minecraft.cushion.get_up": "तकिया से उठना"
+  "subtitles.minecraft.cushion.get_up": "तकिया से उठना",
+  "item.minecraft.poplar_boat": "चिनार की नाव",
+  "item.minecraft.poplar_chest_boat": "चिनार की बक्से वाली नाव"
 }

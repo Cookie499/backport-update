@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Мапа дослідника лісів",
   "item.minecraft.yellow_cushion": "Жовта подушка",
   "stat.minecraft.sleep_in_straw_bed": "Снів у солом’яному ліжку",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Листя шелестить",
   "subtitles.minecraft.shelf_mushroom.bounce": "Щось підстрибує на трутовику",
   "subtitles.minecraft.shelf_mushroom.break": "Блок зламано",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Подушка ламається",
   "subtitles.minecraft.cushion.place": "Подушку розміщено",
   "subtitles.minecraft.cushion.sit": "Сідання на подушку",
-  "subtitles.minecraft.cushion.get_up": "Уставання з подушки"
+  "subtitles.minecraft.cushion.get_up": "Уставання з подушки",
+  "item.minecraft.poplar_boat": "Тополевий човен",
+  "item.minecraft.poplar_chest_boat": "Тополевий човен зі скринею"
 }

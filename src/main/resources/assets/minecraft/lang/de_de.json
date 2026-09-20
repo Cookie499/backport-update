@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Waldanwesen-Entdeckerkarte",
   "item.minecraft.yellow_cushion": "Gelbes Kissen",
   "stat.minecraft.sleep_in_straw_bed": "Strohbett benutzt",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Laub raschelt",
   "subtitles.minecraft.shelf_mushroom.bounce": "Porling federt etwas",
   "subtitles.minecraft.shelf_mushroom.break": "Block zerstört",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Kissen reißt",
   "subtitles.minecraft.cushion.place": "Kissen platziert",
   "subtitles.minecraft.cushion.sit": "Setzt sich auf Kissen",
-  "subtitles.minecraft.cushion.get_up": "Erhebt sich von Kissen"
+  "subtitles.minecraft.cushion.get_up": "Erhebt sich von Kissen",
+  "item.minecraft.poplar_boat": "Pappelholzboot",
+  "item.minecraft.poplar_chest_boat": "Pappelholztruhenboot"
 }

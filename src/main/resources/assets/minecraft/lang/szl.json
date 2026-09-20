@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa eksploracyjna do leśnego dworu",
   "item.minecraft.yellow_cushion": "Żōłty zegłōwek",
   "stat.minecraft.sleep_in_straw_bed": "Nocy przespanych na słomianym łóżku",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Szelest liści",
   "subtitles.minecraft.shelf_mushroom.bounce": "Coś podskakuje na hubie",
   "subtitles.minecraft.shelf_mushroom.break": "Zniszczōno blok",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Poduszka się niszczy",
   "subtitles.minecraft.cushion.place": "Umieszczenie poduszki",
   "subtitles.minecraft.cushion.sit": "Siadanie na poduszce",
-  "subtitles.minecraft.cushion.get_up": "Wstawanie z poduszki"
+  "subtitles.minecraft.cushion.get_up": "Wstawanie z poduszki",
+  "item.minecraft.poplar_boat": "Topolowo łōdka",
+  "item.minecraft.poplar_chest_boat": "Topolowo łōdka ze kastlōm"
 }

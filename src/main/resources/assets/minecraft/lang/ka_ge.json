@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "მეტყევეს რუკა",
   "item.minecraft.yellow_cushion": "ყვითელი ბალიში",
   "stat.minecraft.sleep_in_straw_bed": "ნამძინარევია ჩალის საწოლში",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "ფოთლების შრიალი",
   "subtitles.minecraft.shelf_mushroom.bounce": "რაღაც სხლტება ხის სოკოზე",
   "subtitles.minecraft.shelf_mushroom.break": "ბლოკი გატყდა",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "ბალიში გაირღვა",
   "subtitles.minecraft.cushion.place": "ბალიში დაიდო",
   "subtitles.minecraft.cushion.sit": "ბალიშზე დაჯდა",
-  "subtitles.minecraft.cushion.get_up": "ბალიშიდან ადგა"
+  "subtitles.minecraft.cushion.get_up": "ბალიშიდან ადგა",
+  "item.minecraft.poplar_boat": "ვერხვის ნავი",
+  "item.minecraft.poplar_chest_boat": "სკივრიანი ვერხვის ნავი"
 }

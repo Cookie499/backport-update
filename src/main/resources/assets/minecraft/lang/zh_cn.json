@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "林地探险家地图",
   "item.minecraft.yellow_cushion": "黄色坐垫",
   "stat.minecraft.sleep_in_straw_bed": "麦秆床上入眠次数",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "树叶：沙沙作响",
   "subtitles.minecraft.shelf_mushroom.bounce": "某物：在层孔菇上弹跳",
   "subtitles.minecraft.shelf_mushroom.break": "方块：被破坏",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "坐垫：被破坏",
   "subtitles.minecraft.cushion.place": "坐垫：被放置",
   "subtitles.minecraft.cushion.sit": "坐上坐垫",
-  "subtitles.minecraft.cushion.get_up": "离开坐垫"
+  "subtitles.minecraft.cushion.get_up": "离开坐垫",
+  "item.minecraft.poplar_boat": "杨木船",
+  "item.minecraft.poplar_chest_boat": "杨木运输船"
 }

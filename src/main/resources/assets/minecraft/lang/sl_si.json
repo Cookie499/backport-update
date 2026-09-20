@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Raziskovalni zemljevid gozdne graščine",
   "item.minecraft.yellow_cushion": "Rumena blazina",
   "stat.minecraft.sleep_in_straw_bed": "Čas prespan v slamnati postelji",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Šumenje listja",
   "subtitles.minecraft.shelf_mushroom.bounce": "Nekaj se odbije na drevesni gobi",
   "subtitles.minecraft.shelf_mushroom.break": "Kocka podrta",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Blazina se podre",
   "subtitles.minecraft.cushion.place": "Blazina postavljena",
   "subtitles.minecraft.cushion.sit": "Se usede na blazino",
-  "subtitles.minecraft.cushion.get_up": "Vstane iz blazine"
+  "subtitles.minecraft.cushion.get_up": "Vstane iz blazine",
+  "item.minecraft.poplar_boat": "Topolov čoln",
+  "item.minecraft.poplar_chest_boat": "Topolov čoln s skrinjo"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Karta istraživača šume",
   "item.minecraft.yellow_cushion": "Žuti jastuk",
   "stat.minecraft.sleep_in_straw_bed": "Odspavano u slamnatom krevetu",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Šuštanje lišća",
   "subtitles.minecraft.shelf_mushroom.bounce": "Nešto skakuće na gubi",
   "subtitles.minecraft.shelf_mushroom.break": "Razbijen blok",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Jastuk potrgan",
   "subtitles.minecraft.cushion.place": "Jastuk postavljen",
   "subtitles.minecraft.cushion.sit": "Sjedi na jastuku",
-  "subtitles.minecraft.cushion.get_up": "Ustaje s jastuka"
+  "subtitles.minecraft.cushion.get_up": "Ustaje s jastuka",
+  "item.minecraft.poplar_boat": "Čamac od topole",
+  "item.minecraft.poplar_chest_boat": "Čamac od topole sa škrinjom"
 }

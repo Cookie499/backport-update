@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Hartë e eksploruesit të pyllit",
   "item.minecraft.yellow_cushion": "Jastëk i verdhë",
   "stat.minecraft.sleep_in_straw_bed": "Netët e kaluara në një shtrat kashte",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Gjethe gërvishen",
   "subtitles.minecraft.shelf_mushroom.bounce": "Diçka kërcen në kërpudhë polipori",
   "subtitles.minecraft.shelf_mushroom.break": "Blloku u shkatërrua",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Jastëk prishet",
   "subtitles.minecraft.cushion.place": "Jastëk u vendosë",
   "subtitles.minecraft.cushion.sit": "Ulet në jastëk",
-  "subtitles.minecraft.cushion.get_up": "Çohet nga jastëku"
+  "subtitles.minecraft.cushion.get_up": "Çohet nga jastëku",
+  "item.minecraft.poplar_boat": "Varkë plepi",
+  "item.minecraft.poplar_chest_boat": "Varkë magazinimi plepi"
 }

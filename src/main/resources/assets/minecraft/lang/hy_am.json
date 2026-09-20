@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Անտառի դղյակի ուսումնասիրման քարտեզ",
   "item.minecraft.yellow_cushion": "Դեղին բարձ",
   "stat.minecraft.sleep_in_straw_bed": "Քնել եք ծղոտե մահճակալում",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Տերևները շրշում են",
   "subtitles.minecraft.shelf_mushroom.bounce": "Աբեթասնկի վրա ինչ-որ բան է թռնում",
   "subtitles.minecraft.shelf_mushroom.break": "Կապանը ջարդվեց",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Բարձը ջարդվում է",
   "subtitles.minecraft.cushion.place": "Բարձ է տեղադրվել",
   "subtitles.minecraft.cushion.sit": "Մեկը նստեց բարձի վրա",
-  "subtitles.minecraft.cushion.get_up": "Մեկը կանգնեց բարձից"
+  "subtitles.minecraft.cushion.get_up": "Մեկը կանգնեց բարձից",
+  "item.minecraft.poplar_boat": "Բարդուց նավակ",
+  "item.minecraft.poplar_chest_boat": "Բեռնատար նավակ բարդուց"
 }

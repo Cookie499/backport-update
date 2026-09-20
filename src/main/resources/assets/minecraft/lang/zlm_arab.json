@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "ڤتا ڤنجلاجه هوتن",
   "item.minecraft.yellow_cushion": "بنتل دودوق کونيڠ",
   "stat.minecraft.sleep_in_straw_bed": "کالي تيدور داتس کاتيل جرامي",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "داٴون برکرسيق",
   "subtitles.minecraft.shelf_mushroom.bounce": "سسواتو ملنتون ڤد چنداون ڤوکوق",
   "subtitles.minecraft.shelf_mushroom.break": "بلوک دڤچهکن",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "بنتل دودوق هنچور",
   "subtitles.minecraft.cushion.place": "بنتل دودوق دليتقکن",
   "subtitles.minecraft.cushion.sit": "دودوق دبنتل دودوق",
-  "subtitles.minecraft.cushion.get_up": "باڠون دري بنتل دودوق"
+  "subtitles.minecraft.cushion.get_up": "باڠون دري بنتل دودوق",
+  "item.minecraft.poplar_boat": "سمڤن ڤوڤلار",
+  "item.minecraft.poplar_chest_boat": "سمڤن ڤوڤلار دڠن ڤتي"
 }

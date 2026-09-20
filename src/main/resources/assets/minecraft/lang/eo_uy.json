@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapo de arbara esploristo",
   "item.minecraft.yellow_cushion": "Flava kuseno",
   "stat.minecraft.sleep_in_straw_bed": "Dormoj en pajlolito",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Folioj susuras",
   "subtitles.minecraft.shelf_mushroom.bounce": "Io resaltas sur poliporo",
   "subtitles.minecraft.shelf_mushroom.break": "Bloko rompiĝis",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Kuseno rompiĝas",
   "subtitles.minecraft.cushion.place": "Kuseno metiĝas",
   "subtitles.minecraft.cushion.sit": "Iu surkuseniĝas",
-  "subtitles.minecraft.cushion.get_up": "Iu dekuseniĝas"
+  "subtitles.minecraft.cushion.get_up": "Iu dekuseniĝas",
+  "item.minecraft.poplar_boat": "Popla boato",
+  "item.minecraft.poplar_chest_boat": "Popla boato kun kofro"
 }

@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Metsikön seikkailijakartta",
   "item.minecraft.yellow_cushion": "Keltainen tyyny",
   "stat.minecraft.sleep_in_straw_bed": "Olkipatjalla nukuttu",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Lehdet kahisevat",
   "subtitles.minecraft.shelf_mushroom.bounce": "Jotakin ponnahtelee käävällä",
   "subtitles.minecraft.shelf_mushroom.break": "Kuutio hajoaa",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Istuintyyny hajoaa",
   "subtitles.minecraft.cushion.place": "Istuintyyny sijoitettiin",
   "subtitles.minecraft.cushion.sit": "Istuudutaan tyynylle",
-  "subtitles.minecraft.cushion.get_up": "Nousee ylös tyynyltä"
+  "subtitles.minecraft.cushion.get_up": "Nousee ylös tyynyltä",
+  "item.minecraft.poplar_boat": "Haapavene",
+  "item.minecraft.poplar_chest_boat": "Haapavene arkulla"
 }

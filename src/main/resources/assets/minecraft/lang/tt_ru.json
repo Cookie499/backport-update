@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Урманнар тикшеренүченең харитасы",
   "item.minecraft.yellow_cushion": "Сары мендәр",
   "stat.minecraft.sleep_in_straw_bed": "Салам ятата йокланган",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Яфраклар кыштырдавы",
   "subtitles.minecraft.shelf_mushroom.bounce": "Нәрсәдер агач гөмбәсендә сикерә",
   "subtitles.minecraft.shelf_mushroom.break": "Блок ватылды",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Мендәр ватылды",
   "subtitles.minecraft.cushion.place": "Мендәр куелды",
   "subtitles.minecraft.cushion.sit": "Мендәргә утырды",
-  "subtitles.minecraft.cushion.get_up": "Мендәрдән торды"
+  "subtitles.minecraft.cushion.get_up": "Мендәрдән торды",
+  "item.minecraft.poplar_boat": "Тирәк көймә",
+  "item.minecraft.poplar_chest_boat": "Сандыклы тирәк көймә"
 }

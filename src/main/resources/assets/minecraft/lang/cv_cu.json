@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Вӑрман тӗпчевҫин картти",
   "item.minecraft.yellow_cushion": "Сарӑ минтер",
   "stat.minecraft.sleep_in_straw_bed": "Улӑм кравать ҫинче ҫывӑрса ирттернӗ",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Ҫулҫӑ чӑштӑртатать",
   "subtitles.minecraft.shelf_mushroom.bounce": "Темӗн ӑвӑ кӑмпинчен сикрӗ",
   "subtitles.minecraft.shelf_mushroom.break": "Блока ҫӗмӗрчӗҫ",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Минтере ҫӗмӗрчӗҫ",
   "subtitles.minecraft.cushion.place": "Минтере вырнаҫтарчӗҫ",
   "subtitles.minecraft.cushion.sit": "Минтер ҫине ларчӗҫ",
-  "subtitles.minecraft.cushion.get_up": "Минтертен тӑчӗҫ"
+  "subtitles.minecraft.cushion.get_up": "Минтертен тӑчӗҫ",
+  "item.minecraft.poplar_boat": "Тирек кимӗ",
+  "item.minecraft.poplar_chest_boat": "Арчаллӑ тирек кимӗ"
 }

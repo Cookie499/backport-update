@@ -49,13 +49,16 @@ public final class ModItems {
 
     public static final ModRegister.Entry<BlockItem> POPLAR_SAPLING = simpleBlockItem(ModBlocks.POPLAR_SAPLING);
 
+    // Signs are block-backed too: vanilla registers them through registerBlock, so their name
+    // comes from the block.minecraft.<name> key. Without the prefix Item.Properties would look up
+    // item.minecraft.poplar_sign, which no language file has.
     public static final ModRegister.Entry<SignItem> POPLAR_SIGN = ITEMS.register("poplar_sign",
             () -> new SignItem(ModBlocks.POPLAR_SIGN.get(), ModBlocks.POPLAR_WALL_SIGN.get(),
-                    new Item.Properties().stacksTo(16)));
+                    new Item.Properties().stacksTo(16).useBlockDescriptionPrefix()));
 
     public static final ModRegister.Entry<HangingSignItem> POPLAR_HANGING_SIGN = ITEMS.register("poplar_hanging_sign",
             () -> new HangingSignItem(ModBlocks.POPLAR_HANGING_SIGN.get(), ModBlocks.POPLAR_WALL_HANGING_SIGN.get(),
-                    new Item.Properties().stacksTo(16)));
+                    new Item.Properties().stacksTo(16).useBlockDescriptionPrefix()));
 
     public static final ModRegister.Entry<BlockItem> SHELF_MUSHROOM = simpleBlockItem(ModBlocks.SHELF_MUSHROOM);
     public static final ModRegister.Entry<BlockItem> RED_SHRUB = simpleBlockItem(ModBlocks.RED_SHRUB);

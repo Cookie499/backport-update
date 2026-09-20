@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "𐌺𐌰𐍂𐍄𐌰 𐍃𐍉𐌺𐌰𐍂𐌴𐌹𐍃 𐌻𐌰𐌽𐌳𐌹𐍃 𐌸𐌹𐍃 𐍄𐍂𐌹𐍅𐌴𐌹𐌽𐌹𐌽𐍃",
   "item.minecraft.yellow_cushion": "𐍃𐌹𐍄𐌻𐌰𐍅𐌰𐌲𐌲𐌰𐍂𐌴𐌹𐍃 𐌲𐌹𐌻𐍅𐍃",
   "stat.minecraft.sleep_in_straw_bed": "𐍃𐌹𐌽𐌸𐌰𐌼 𐍃𐌻𐌴𐍀𐌰𐌽𐌰𐌹𐌼 𐌹𐌽 𐌻𐌹𐌲𐍂𐌰 𐌷𐌰𐌿𐌾𐌹𐍃",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "𐌻𐌰𐌿𐌱𐍉𐍃 𐍃𐍅𐍉𐌲𐌰𐌽𐌳",
   "subtitles.minecraft.shelf_mushroom.bounce": "𐍈𐌰 𐌷𐌻𐌰𐌿𐍀𐌹𐌸 𐌰𐌽𐌰 𐍃𐍅𐌰𐌼𐌼𐌰 𐍃𐌺𐌹𐌻𐌱𐌾𐍉𐌽𐍃",
   "subtitles.minecraft.shelf_mushroom.break": "𐌱𐌻𐌿𐌺𐌺 𐌱𐍂𐌿𐌺𐌰𐌽",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "𐍃𐌹𐍄𐌻𐌰𐍅𐌰𐌲𐌲𐌰𐍂𐌴𐌹𐍃 𐌱𐍂𐌹𐌺𐌹𐌸",
   "subtitles.minecraft.cushion.place": "𐍃𐌹𐍄𐌻𐌰𐍅𐌰𐌲𐌲𐌰𐍂𐌴𐌹𐍃 𐌲𐌰𐌻𐌰𐌲𐌹𐌸𐍃",
   "subtitles.minecraft.cushion.sit": "𐌹𐌽 𐍃𐌹𐍄𐌻𐌰𐍅𐌰𐌲𐌲𐌰𐍂𐌹 𐌲𐌰𐍃𐌹𐍄𐌹𐌸",
-  "subtitles.minecraft.cushion.get_up": "𐌿𐍂𐍂𐌴𐌹𐍃𐌹𐌸 𐌿𐍃 𐍃𐌹𐍄𐌻𐌰𐍅𐌰𐌲𐌲𐌰𐍂𐌾𐌰"
+  "subtitles.minecraft.cushion.get_up": "𐌿𐍂𐍂𐌴𐌹𐍃𐌹𐌸 𐌿𐍃 𐍃𐌹𐍄𐌻𐌰𐍅𐌰𐌲𐌲𐌰𐍂𐌾𐌰",
+  "item.minecraft.poplar_boat": "𐍃𐌺𐌹𐍀 𐌰𐍃𐍀𐍉𐍃",
+  "item.minecraft.poplar_chest_boat": "𐍃𐌺𐌹𐍀 𐌰𐍃𐍀𐍉𐍃 𐌼𐌹𐌸 𐌰𐍂𐌺𐌰𐌹"
 }

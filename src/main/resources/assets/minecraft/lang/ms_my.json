@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Peta Penjelajah Hutan",
   "item.minecraft.yellow_cushion": "Bantal Duduk Kuning",
   "stat.minecraft.sleep_in_straw_bed": "Kali Tidur di atas Katil Jerami",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Daun berkersik",
   "subtitles.minecraft.shelf_mushroom.bounce": "Sesuatu melantun pada Cendawan Pokok",
   "subtitles.minecraft.shelf_mushroom.break": "Blok dipecahkan",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Bantal Duduk hancur",
   "subtitles.minecraft.cushion.place": "Bantal Duduk diletakkan",
   "subtitles.minecraft.cushion.sit": "Duduk di Bantal Duduk",
-  "subtitles.minecraft.cushion.get_up": "Bangun dari Bantal Duduk"
+  "subtitles.minecraft.cushion.get_up": "Bangun dari Bantal Duduk",
+  "item.minecraft.poplar_boat": "Sampan Poplar",
+  "item.minecraft.poplar_chest_boat": "Sampan Poplar dengan Peti"
 }

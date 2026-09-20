@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapang Pagalugad ng Kakahuyan",
   "item.minecraft.yellow_cushion": "Dilaw na Sapin",
   "stat.minecraft.sleep_in_straw_bed": "Ulit Natulog sa Dayaming Higaan",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Kumakaluskos ang dahon",
   "subtitles.minecraft.shelf_mushroom.bounce": "May tumalbog sa Kulat",
   "subtitles.minecraft.shelf_mushroom.break": "Nasira ang bloke",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Nawasak ang Sapin",
   "subtitles.minecraft.cushion.place": "Naglagay ng Sapin",
   "subtitles.minecraft.cushion.sit": "Umupo sa Sapin",
-  "subtitles.minecraft.cushion.get_up": "Tumayo galing sa Sapin"
+  "subtitles.minecraft.cushion.get_up": "Tumayo galing sa Sapin",
+  "item.minecraft.poplar_boat": "Alamong Bangka",
+  "item.minecraft.poplar_chest_boat": "Alamong Bangkang may Kaban"
 }

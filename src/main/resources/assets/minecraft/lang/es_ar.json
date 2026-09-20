@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Mapa de exploración de mansión",
   "item.minecraft.yellow_cushion": "Almohadón amarillo",
   "stat.minecraft.sleep_in_straw_bed": "Noches dormidas en una cama de heno",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Hojas crujiendo",
   "subtitles.minecraft.shelf_mushroom.bounce": "Algo rebota en un hongo de repisa",
   "subtitles.minecraft.shelf_mushroom.break": "Bloque roto",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Almohadón se rompe",
   "subtitles.minecraft.cushion.place": "Almohadón colocado",
   "subtitles.minecraft.cushion.sit": "Se sienta sobre un almohadón",
-  "subtitles.minecraft.cushion.get_up": "Se levanta del almohadón"
+  "subtitles.minecraft.cushion.get_up": "Se levanta del almohadón",
+  "item.minecraft.poplar_boat": "Bote de álamo",
+  "item.minecraft.poplar_chest_boat": "Bote de álamo con cofre"
 }

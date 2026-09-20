@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Карта исследователя лесов",
   "item.minecraft.yellow_cushion": "Жёлтая подушка",
   "stat.minecraft.sleep_in_straw_bed": "Выспался в соломенной кровати",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Шелест листьев",
   "subtitles.minecraft.shelf_mushroom.bounce": "Отскок от трутовика",
   "subtitles.minecraft.shelf_mushroom.break": "Блок сломан",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Подушка сломана",
   "subtitles.minecraft.cushion.place": "Подушка размещена",
   "subtitles.minecraft.cushion.sit": "На подушку сели",
-  "subtitles.minecraft.cushion.get_up": "С подушки встали"
+  "subtitles.minecraft.cushion.get_up": "С подушки встали",
+  "item.minecraft.poplar_boat": "Тополевая лодка",
+  "item.minecraft.poplar_chest_boat": "Тополевая грузовая лодка"
 }

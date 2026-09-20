@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "삼림 탐험가 지도",
   "item.minecraft.yellow_cushion": "노란색 방석",
   "stat.minecraft.sleep_in_straw_bed": "밀짚 침대에서 잔 횟수",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "나뭇잎이 바스락거림",
   "subtitles.minecraft.shelf_mushroom.bounce": "선반버섯에 무언가 튕김",
   "subtitles.minecraft.shelf_mushroom.break": "블록이 부서짐",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "방석이 부서짐",
   "subtitles.minecraft.cushion.place": "방석이 놓임",
   "subtitles.minecraft.cushion.sit": "방석에 앉음",
-  "subtitles.minecraft.cushion.get_up": "방석에서 일어남"
+  "subtitles.minecraft.cushion.get_up": "방석에서 일어남",
+  "item.minecraft.poplar_boat": "포플러나무 보트",
+  "item.minecraft.poplar_chest_boat": "상자가 실린 포플러나무 보트"
 }

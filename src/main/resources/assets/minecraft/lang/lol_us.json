@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "WOOdland explurer map",
   "item.minecraft.yellow_cushion": "Yelo Cat Bed",
   "stat.minecraft.sleep_in_straw_bed": "Taimz you can haz a CATNIP BED???",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Leefz ruztlin",
   "subtitles.minecraft.shelf_mushroom.bounce": "Kitteh jumpz on a mushruum",
   "subtitles.minecraft.shelf_mushroom.break": "Blok brokn",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Cat Bed brekz",
   "subtitles.minecraft.cushion.place": "Cat Bed plcd",
   "subtitles.minecraft.cushion.sit": "Sitz on Cat Bed",
-  "subtitles.minecraft.cushion.get_up": "Getz up frum Cat Bed"
+  "subtitles.minecraft.cushion.get_up": "Getz up frum Cat Bed",
+  "item.minecraft.poplar_boat": "Pawpulr watr car",
+  "item.minecraft.poplar_chest_boat": "Pawpulr Watr Car w/ Cat Box"
 }

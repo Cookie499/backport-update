@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "探林圖",
   "item.minecraft.yellow_cushion": "黃氈",
   "stat.minecraft.sleep_in_straw_bed": "蓐寐計",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "葉簌簌",
   "subtitles.minecraft.shelf_mushroom.bounce": "層芝彈",
   "subtitles.minecraft.shelf_mushroom.break": "塊壞",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "氈破",
   "subtitles.minecraft.cushion.place": "氈置",
   "subtitles.minecraft.cushion.sit": "坐於氈",
-  "subtitles.minecraft.cushion.get_up": "起於氈"
+  "subtitles.minecraft.cushion.get_up": "起於氈",
+  "item.minecraft.poplar_boat": "楊舟",
+  "item.minecraft.poplar_chest_boat": "楊艚"
 }

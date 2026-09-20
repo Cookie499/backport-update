@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Metsamaa avastajakaart",
   "item.minecraft.yellow_cushion": "Kollane padi",
   "stat.minecraft.sleep_in_straw_bed": "Õlgvoodis magamise kordi",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Lehed sahisevad",
   "subtitles.minecraft.shelf_mushroom.bounce": "Miski põrkab torikseenel",
   "subtitles.minecraft.shelf_mushroom.break": "Plokk purunes",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Padi puruneb",
   "subtitles.minecraft.cushion.place": "Padi asetatud",
   "subtitles.minecraft.cushion.sit": "Padjale istutakse",
-  "subtitles.minecraft.cushion.get_up": "Padjalt tõustakse"
+  "subtitles.minecraft.cushion.get_up": "Padjalt tõustakse",
+  "item.minecraft.poplar_boat": "Paplist paat",
+  "item.minecraft.poplar_chest_boat": "Kirstuga paplist paat"
 }

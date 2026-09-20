@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "Yellow Cushion",
   "stat.minecraft.sleep_in_straw_bed": "Times Slept in a Straw Bed",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Leaves rustling",
   "subtitles.minecraft.shelf_mushroom.bounce": "Something bounces on a Shelf Mushroom",
   "subtitles.minecraft.shelf_mushroom.break": "Bloco spacà",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Cushion breaks",
   "subtitles.minecraft.cushion.place": "Cushion placed",
   "subtitles.minecraft.cushion.sit": "Sits on Cushion",
-  "subtitles.minecraft.cushion.get_up": "Gets up from Cushion"
+  "subtitles.minecraft.cushion.get_up": "Gets up from Cushion",
+  "item.minecraft.poplar_boat": "Poplar Boat",
+  "item.minecraft.poplar_chest_boat": "Poplar Boat with Chest"
 }

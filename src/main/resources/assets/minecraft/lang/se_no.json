@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Meahccegárdima suokkardankárta",
   "item.minecraft.yellow_cushion": "Fiskes guoddá",
   "stat.minecraft.sleep_in_straw_bed": "Galle geardde leat oađđán suoidneseaŋggas",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Biegga bossu lasttaid",
   "subtitles.minecraft.shelf_mushroom.bounce": "Juoga njuikkoda čánás",
   "subtitles.minecraft.shelf_mushroom.break": "Blohkka cuovkana",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Guođđá cuovkana",
   "subtitles.minecraft.cushion.place": "Guoddá biddjojuvvo",
   "subtitles.minecraft.cushion.sit": "Čohkká guottás",
-  "subtitles.minecraft.cushion.get_up": "Čuožžila guottás"
+  "subtitles.minecraft.cushion.get_up": "Čuožžila guottás",
+  "item.minecraft.poplar_boat": "Suhpefanas",
+  "item.minecraft.poplar_chest_boat": "Suhpefanas mas lea giisá"
 }

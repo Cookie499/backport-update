@@ -1,6 +1,9 @@
 # Changelog
 
 ## 1.1.0
+- Fixed the poplar sign and hanging sign items showing their raw translation key: signs are block-backed, so like vanilla's they now resolve block.minecraft.* rather than an item.minecraft.* key.
+- Fixed the poplar boats missing their item.minecraft.* name (only the entity form existed after the namespace merge).
+- The backported content now sits in the vanilla creative tabs (poplar under Building Blocks, the wool/concrete/cushion families under Colored Blocks, the plants under Natural Blocks, the signs and straw bed under Functional Blocks, the boats under Tools & Utilities) at the same positions Minecraft 26.3 uses. The separate "26.3物品" tab is gone - 26.3 adds no creative tab of its own.
 - Fixed the startup crash "Adding duplicate key minecraft:attached_to_logs": 26.2 already ships the attached_to_logs decorator and the fallen_tree feature, so the mod now uses the vanilla ones instead of registering its own copies under the same ids.
 - Every block, item, entity, biome, sound, tag and worldgen entry now lives in the minecraft namespace instead of the mod's own, so the mod's content presents itself as vanilla content. Existing worlds will need a fresh one: ids such as backport:poplar_log are no longer registered.
 - Fixed every block item showing its raw translation key instead of a name: they are now registered like vanilla's, so they resolve their block.* key instead of looking for an item.* key that never existed.

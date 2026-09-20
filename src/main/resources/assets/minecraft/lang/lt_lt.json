@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Woodland Explorer Map",
   "item.minecraft.yellow_cushion": "Geltona pagalvėlė",
   "stat.minecraft.sleep_in_straw_bed": "Miegota šiaudų lovoje",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Leaves rustling",
   "subtitles.minecraft.shelf_mushroom.bounce": "Kažkas šokinėja ant pinties",
   "subtitles.minecraft.shelf_mushroom.break": "Sudaužomas blokas",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Pagalvėlė lūžta",
   "subtitles.minecraft.cushion.place": "Pagalvėlė padedama",
   "subtitles.minecraft.cushion.sit": "Atsisėda ant pagalvėlės",
-  "subtitles.minecraft.cushion.get_up": "Atsistoja nuo pagalvėlės"
+  "subtitles.minecraft.cushion.get_up": "Atsistoja nuo pagalvėlės",
+  "item.minecraft.poplar_boat": "Tuopo valtis",
+  "item.minecraft.poplar_chest_boat": "Tuopo valtis su skrynia"
 }

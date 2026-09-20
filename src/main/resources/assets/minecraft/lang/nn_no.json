@@ -132,7 +132,6 @@
   "item.minecraft.woodland_explorer_map": "Granskingskart over herregard i skogen",
   "item.minecraft.yellow_cushion": "Gul pute",
   "stat.minecraft.sleep_in_straw_bed": "Ganger sovet i en stråseng",
-  "itemGroup.minecraft.main": "26.3物品",
   "subtitles.minecraft.poplar_leaves.ambient": "Lauv kraslar",
   "subtitles.minecraft.shelf_mushroom.bounce": "Noko sprett på ei kjuke",
   "subtitles.minecraft.shelf_mushroom.break": "Blokk vart øydelagd",
@@ -144,5 +143,7 @@
   "subtitles.minecraft.cushion.break": "Pute vert øydelagt",
   "subtitles.minecraft.cushion.place": "Pute sett ned",
   "subtitles.minecraft.cushion.sit": "Sit på pute",
-  "subtitles.minecraft.cushion.get_up": "Reiser seg frå pute"
+  "subtitles.minecraft.cushion.get_up": "Reiser seg frå pute",
+  "item.minecraft.poplar_boat": "Ospebåt",
+  "item.minecraft.poplar_chest_boat": "Ospebåt med kiste"
 }
