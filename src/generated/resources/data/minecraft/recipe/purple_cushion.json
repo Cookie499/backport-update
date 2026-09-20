@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "cushion",
+  "key": {
+    "S": "minecraft:purple_wool_slab"
+  },
+  "pattern": [
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:purple_cushion"
+  }
+}

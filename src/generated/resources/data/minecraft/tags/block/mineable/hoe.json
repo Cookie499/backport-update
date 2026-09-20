@@ -1,8 +1,8 @@
 {
   "values": [
-    "backport:red_poplar_leaves",
-    "backport:orange_poplar_leaves",
-    "backport:yellow_poplar_leaves",
-    "backport:shelf_mushroom"
+    "minecraft:red_poplar_leaves",
+    "minecraft:orange_poplar_leaves",
+    "minecraft:yellow_poplar_leaves",
+    "minecraft:shelf_mushroom"
   ]
 }

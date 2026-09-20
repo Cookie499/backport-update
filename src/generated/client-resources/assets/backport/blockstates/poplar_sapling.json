@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "": {
-      "model": "backport:block/poplar_sapling"
-    }
-  }
-}

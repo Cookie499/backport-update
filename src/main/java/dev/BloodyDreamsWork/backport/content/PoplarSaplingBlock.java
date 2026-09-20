@@ -17,7 +17,7 @@ import java.util.Optional;
 public class PoplarSaplingBlock extends SaplingBlock {
 
     public static final TreeGrower GROWER = new TreeGrower(
-            "backport:poplar",
+            "minecraft:poplar",
             Optional.empty(),
             Optional.of(ModConfiguredFeatures.RED_POPLAR),
             Optional.empty());

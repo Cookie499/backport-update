@@ -1,21 +1,21 @@
 {
   "values": [
-    "backport:poplar_log",
-    "backport:stripped_poplar_log",
-    "backport:poplar_wood",
-    "backport:stripped_poplar_wood",
-    "backport:poplar_planks",
-    "backport:poplar_stairs",
-    "backport:poplar_slab",
-    "backport:poplar_fence",
-    "backport:poplar_fence_gate",
-    "backport:poplar_door",
-    "backport:poplar_trapdoor",
-    "backport:poplar_pressure_plate",
-    "backport:poplar_button",
-    "backport:poplar_sign",
-    "backport:poplar_wall_sign",
-    "backport:poplar_hanging_sign",
-    "backport:poplar_wall_hanging_sign"
+    "minecraft:poplar_log",
+    "minecraft:stripped_poplar_log",
+    "minecraft:poplar_wood",
+    "minecraft:stripped_poplar_wood",
+    "minecraft:poplar_planks",
+    "minecraft:poplar_stairs",
+    "minecraft:poplar_slab",
+    "minecraft:poplar_fence",
+    "minecraft:poplar_fence_gate",
+    "minecraft:poplar_door",
+    "minecraft:poplar_trapdoor",
+    "minecraft:poplar_pressure_plate",
+    "minecraft:poplar_button",
+    "minecraft:poplar_sign",
+    "minecraft:poplar_wall_sign",
+    "minecraft:poplar_hanging_sign",
+    "minecraft:poplar_wall_hanging_sign"
   ]
 }

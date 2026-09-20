@@ -1,6 +1,6 @@
 {
   "values": [
-    "backport:wandering_trader/emerald_poplar_sapling",
-    "backport:wandering_trader/emerald_shelf_mushroom"
+    "minecraft:wandering_trader/emerald_poplar_sapling",
+    "minecraft:wandering_trader/emerald_shelf_mushroom"
   ]
 }

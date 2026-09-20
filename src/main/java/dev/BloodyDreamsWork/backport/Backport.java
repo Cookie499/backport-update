@@ -15,7 +15,7 @@ import dev.BloodyDreamsWork.backport.worldgen.ModWorldgenTypes;
 import net.fabricmc.api.ModInitializer;
 
 public class Backport implements ModInitializer {
-    public static final String MODID = "backport";
+    public static final String MODID = "minecraft";
 
     @Override
     public void onInitialize() {

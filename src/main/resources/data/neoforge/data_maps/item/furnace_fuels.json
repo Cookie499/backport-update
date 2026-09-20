@@ -1,54 +1,118 @@
 {
   "values": {
-    "backport:poplar_sapling": {
+    "minecraft:poplar_sapling": {
       "burn_time": 100
     },
-    "backport:poplar_fence": {
+    "minecraft:poplar_fence": {
       "burn_time": 300
     },
-    "backport:poplar_fence_gate": {
+    "minecraft:poplar_fence_gate": {
       "burn_time": 300
     },
-    "backport:poplar_trapdoor": {
+    "minecraft:poplar_trapdoor": {
       "burn_time": 300
     },
-    "backport:poplar_button": {
+    "minecraft:poplar_button": {
       "burn_time": 100
     },
-    "backport:poplar_pressure_plate": {
+    "minecraft:poplar_pressure_plate": {
       "burn_time": 300
     },
-    "backport:white_wool_stairs": { "burn_time": 100 },
-    "backport:white_wool_slab": { "burn_time": 50 },
-    "backport:orange_wool_stairs": { "burn_time": 100 },
-    "backport:orange_wool_slab": { "burn_time": 50 },
-    "backport:magenta_wool_stairs": { "burn_time": 100 },
-    "backport:magenta_wool_slab": { "burn_time": 50 },
-    "backport:light_blue_wool_stairs": { "burn_time": 100 },
-    "backport:light_blue_wool_slab": { "burn_time": 50 },
-    "backport:yellow_wool_stairs": { "burn_time": 100 },
-    "backport:yellow_wool_slab": { "burn_time": 50 },
-    "backport:lime_wool_stairs": { "burn_time": 100 },
-    "backport:lime_wool_slab": { "burn_time": 50 },
-    "backport:pink_wool_stairs": { "burn_time": 100 },
-    "backport:pink_wool_slab": { "burn_time": 50 },
-    "backport:gray_wool_stairs": { "burn_time": 100 },
-    "backport:gray_wool_slab": { "burn_time": 50 },
-    "backport:light_gray_wool_stairs": { "burn_time": 100 },
-    "backport:light_gray_wool_slab": { "burn_time": 50 },
-    "backport:cyan_wool_stairs": { "burn_time": 100 },
-    "backport:cyan_wool_slab": { "burn_time": 50 },
-    "backport:purple_wool_stairs": { "burn_time": 100 },
-    "backport:purple_wool_slab": { "burn_time": 50 },
-    "backport:blue_wool_stairs": { "burn_time": 100 },
-    "backport:blue_wool_slab": { "burn_time": 50 },
-    "backport:brown_wool_stairs": { "burn_time": 100 },
-    "backport:brown_wool_slab": { "burn_time": 50 },
-    "backport:green_wool_stairs": { "burn_time": 100 },
-    "backport:green_wool_slab": { "burn_time": 50 },
-    "backport:red_wool_stairs": { "burn_time": 100 },
-    "backport:red_wool_slab": { "burn_time": 50 },
-    "backport:black_wool_stairs": { "burn_time": 100 },
-    "backport:black_wool_slab": { "burn_time": 50 }
+    "minecraft:white_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:white_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:orange_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:orange_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:magenta_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:magenta_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:light_blue_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:light_blue_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:yellow_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:yellow_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:lime_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:lime_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:pink_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:pink_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:gray_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:gray_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:light_gray_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:light_gray_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:cyan_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:cyan_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:purple_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:purple_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:blue_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:blue_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:brown_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:brown_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:green_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:green_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:red_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:red_wool_slab": {
+      "burn_time": 50
+    },
+    "minecraft:black_wool_stairs": {
+      "burn_time": 100
+    },
+    "minecraft:black_wool_slab": {
+      "burn_time": 50
+    }
   }
 }

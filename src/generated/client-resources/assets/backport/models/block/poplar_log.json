@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "backport:block/poplar_log_top",
-    "side": "backport:block/poplar_log"
-  }
-}

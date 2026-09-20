@@ -1,0 +1,377 @@
+{
+  "block.poplar_leaves.ambient": {
+    "subtitle": "subtitles.minecraft.poplar_leaves.ambient",
+    "sounds": [
+      {
+        "name": "minecraft:block/poplar_leaves/ambient1"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient2"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient3"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient4"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient5"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient6"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient7"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient8"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient9"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient10"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient11"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient12"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient13"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient14"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient15"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient16"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient17"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient18"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient19"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient20"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient21"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient22"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient23"
+      },
+      {
+        "name": "minecraft:block/poplar_leaves/ambient24"
+      }
+    ]
+  },
+  "block.shelf_mushroom.bounce": {
+    "subtitle": "subtitles.minecraft.shelf_mushroom.bounce",
+    "sounds": [
+      {
+        "name": "minecraft:block/shelf_mushroom/bounce1"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/bounce2"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/bounce3"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/bounce4"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/bounce5"
+      }
+    ]
+  },
+  "block.shelf_mushroom.break": {
+    "subtitle": "subtitles.minecraft.shelf_mushroom.break",
+    "sounds": [
+      {
+        "name": "minecraft:block/shelf_mushroom/break1"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/break2"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/break3"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/break4"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/break5"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/break6"
+      }
+    ]
+  },
+  "block.shelf_mushroom.place": {
+    "subtitle": "subtitles.minecraft.shelf_mushroom.place",
+    "sounds": [
+      {
+        "name": "minecraft:block/shelf_mushroom/place1"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/place2"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/place3"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/place4"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/place5"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/place6"
+      }
+    ]
+  },
+  "block.shelf_mushroom.step": {
+    "subtitle": "subtitles.minecraft.shelf_mushroom.step",
+    "sounds": [
+      {
+        "name": "minecraft:block/shelf_mushroom/step1"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/step2"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/step3"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/step4"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/step5"
+      },
+      {
+        "name": "minecraft:block/shelf_mushroom/step6"
+      }
+    ]
+  },
+  "block.red_shrub.break": {
+    "subtitle": "subtitles.minecraft.red_shrub.break",
+    "sounds": [
+      {
+        "name": "minecraft:block/red_shrub/break1"
+      },
+      {
+        "name": "minecraft:block/red_shrub/break2"
+      },
+      {
+        "name": "minecraft:block/red_shrub/break3"
+      },
+      {
+        "name": "minecraft:block/red_shrub/break4"
+      }
+    ]
+  },
+  "block.red_shrub.place": {
+    "subtitle": "subtitles.minecraft.red_shrub.place",
+    "sounds": [
+      {
+        "name": "minecraft:block/red_shrub/place1"
+      },
+      {
+        "name": "minecraft:block/red_shrub/place2"
+      },
+      {
+        "name": "minecraft:block/red_shrub/place3"
+      },
+      {
+        "name": "minecraft:block/red_shrub/place4"
+      }
+    ]
+  },
+  "block.straw_bed.break": {
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      {
+        "name": "minecraft:block/straw_bed/break1"
+      },
+      {
+        "name": "minecraft:block/straw_bed/break2"
+      },
+      {
+        "name": "minecraft:block/straw_bed/break3"
+      },
+      {
+        "name": "minecraft:block/straw_bed/break4"
+      }
+    ]
+  },
+  "block.straw_bed.break_leave": {
+    "subtitle": "subtitles.minecraft.straw_bed.break_leave",
+    "sounds": [
+      {
+        "name": "minecraft:block/straw_bed/break_leave"
+      }
+    ]
+  },
+  "block.straw_bed.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "minecraft:block/straw_bed/step1"
+      },
+      {
+        "name": "minecraft:block/straw_bed/step2"
+      },
+      {
+        "name": "minecraft:block/straw_bed/step3"
+      },
+      {
+        "name": "minecraft:block/straw_bed/step4"
+      },
+      {
+        "name": "minecraft:block/straw_bed/step5"
+      },
+      {
+        "name": "minecraft:block/straw_bed/step6"
+      }
+    ]
+  },
+  "block.straw_bed.place": {
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "minecraft:block/straw_bed/place1"
+      },
+      {
+        "name": "minecraft:block/straw_bed/place2"
+      },
+      {
+        "name": "minecraft:block/straw_bed/place3"
+      },
+      {
+        "name": "minecraft:block/straw_bed/place4"
+      }
+    ]
+  },
+  "block.straw_bed.hit": {
+    "subtitle": "subtitles.block.generic.hit",
+    "sounds": [
+      {
+        "name": "minecraft:block/straw_bed/hit1"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit2"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit3"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit4"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit5"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit6"
+      }
+    ]
+  },
+  "block.straw_bed.fall": {
+    "sounds": [
+      {
+        "name": "minecraft:block/straw_bed/hit1"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit2"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit3"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit4"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit5"
+      },
+      {
+        "name": "minecraft:block/straw_bed/hit6"
+      }
+    ]
+  },
+  "entity.cushion.break": {
+    "subtitle": "subtitles.minecraft.cushion.break",
+    "sounds": [
+      {
+        "name": "minecraft:entity/cushion/break1"
+      },
+      {
+        "name": "minecraft:entity/cushion/break2"
+      },
+      {
+        "name": "minecraft:entity/cushion/break3"
+      }
+    ]
+  },
+  "entity.cushion.place": {
+    "subtitle": "subtitles.minecraft.cushion.place",
+    "sounds": [
+      {
+        "name": "minecraft:entity/cushion/place1"
+      },
+      {
+        "name": "minecraft:entity/cushion/place2"
+      },
+      {
+        "name": "minecraft:entity/cushion/place3"
+      },
+      {
+        "name": "minecraft:entity/cushion/place4"
+      },
+      {
+        "name": "minecraft:entity/cushion/place5"
+      },
+      {
+        "name": "minecraft:entity/cushion/place6"
+      }
+    ]
+  },
+  "entity.cushion.sit": {
+    "subtitle": "subtitles.minecraft.cushion.sit",
+    "sounds": [
+      {
+        "name": "minecraft:entity/cushion/sit1"
+      },
+      {
+        "name": "minecraft:entity/cushion/sit2"
+      },
+      {
+        "name": "minecraft:entity/cushion/sit3"
+      }
+    ]
+  },
+  "entity.cushion.get_up": {
+    "subtitle": "subtitles.minecraft.cushion.get_up",
+    "sounds": [
+      {
+        "name": "minecraft:entity/cushion/get_up1"
+      },
+      {
+        "name": "minecraft:entity/cushion/get_up2"
+      },
+      {
+        "name": "minecraft:entity/cushion/get_up3"
+      }
+    ]
+  }
+}

@@ -77,7 +77,7 @@ public class ModRecipeProvider extends RecipeProvider {
                 .requires(ModTags.Items.MUSHROOMS)
                 .requires(Items.BOWL)
                 .unlockedBy("has_mushroom", has(ModTags.Items.MUSHROOMS))
-                .save(this.output, "backport:mushroom_stew_from_any_mushrooms");
+                .save(this.output, "minecraft:mushroom_stew_from_any_mushrooms");
 
         ShapedRecipeBuilder.shaped(this.items, RecipeCategory.DECORATIONS, ModItems.STRAW_BED.get(), 4)
                 .define('H', Blocks.HAY_BLOCK)
@@ -86,7 +86,7 @@ public class ModRecipeProvider extends RecipeProvider {
                 .save(this.output);
 
         SpecialRecipeBuilder.special(ExplorerMapCloningRecipe::new)
-                .save(this.output, "backport:explorer_map_cloning");
+                .save(this.output, "minecraft:explorer_map_cloning");
 
         cushions();
         colouredStairsAndSlabs();

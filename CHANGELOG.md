@@ -1,7 +1,8 @@
 # Changelog
 
 ## 1.1.0
-- Fixed every block item showing its raw translation key instead of a name: they are now registered like vanilla's, so they resolve block.backport.* instead of looking for item.backport.* keys that never existed.
+- Every block, item, entity, biome, sound, tag and worldgen entry now lives in the minecraft namespace instead of the mod's own, so the mod's content presents itself as vanilla content. Existing worlds will need a fresh one: ids such as backport:poplar_log are no longer registered.
+- Fixed every block item showing its raw translation key instead of a name: they are now registered like vanilla's, so they resolve their block.* key instead of looking for an item.* key that never existed.
 - Re-ported the localized names from the official Minecraft 26.3 language files. The concrete stairs and slabs, the explorer maps and thousands of other entries were still showing English in every language.
 - Straw beds can now be slept in everywhere and simply break when you get up, matching the 26.3 straw bed rule instead of showing a placeholder message.
 - The creative tab is now named "26.3物品" in every language.
