@@ -11,6 +11,7 @@
     "BlockSetTypeInvoker",
     "BoatMixin",
     "ChunkGeneratorStructureStateMixin",
+    "DataFixerSchemaMixin",
     "DrownedTridentAttackGoalMixin",
     "EnderDragonMixin",
     "ExplorationMapFunctionMixin",
