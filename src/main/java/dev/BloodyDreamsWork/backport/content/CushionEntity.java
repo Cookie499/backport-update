@@ -1,5 +1,7 @@
 package dev.BloodyDreamsWork.backport.content;
 
+import com.mojang.datafixers.util.Either;
+import com.mojang.serialization.Codec;
 import dev.BloodyDreamsWork.backport.registry.ModItems;
 import dev.BloodyDreamsWork.backport.registry.ModSounds;
 import net.minecraft.core.BlockPos;
@@ -24,6 +26,8 @@ import net.minecraft.world.level.gameevent.GameEvent;
 import net.minecraft.world.phys.Vec3;
 import net.minecraft.world.phys.shapes.VoxelShape;
 
+import java.util.function.Function;
+
 import org.jspecify.annotations.Nullable;
 
 public class CushionEntity extends Entity {
@@ -34,6 +38,17 @@ public class CushionEntity extends Entity {
             SynchedEntityData.defineId(CushionEntity.class, EntityDataSerializers.INT);
 
     private static final int SUPPORT_CHECK_INTERVAL = 20;
+
+    private static final String COLOR_TAG = "color";
+
+    /**
+     * 26.3 saves the cushion colour by dye name ("light_blue", not the numeric id), which is what a
+     * world has to contain for its cushions to keep their colour once it is opened in 26.3. The
+     * numeric id is still read because earlier builds of this backport wrote it under the same key.
+     */
+    private static final Codec<DyeColor> COLOR_CODEC = Codec
+            .either(DyeColor.CODEC, Codec.INT.xmap(DyeColor::byId, DyeColor::getId))
+            .xmap(either -> either.map(Function.identity(), Function.identity()), Either::left);
 
     public CushionEntity(EntityType<? extends CushionEntity> type, Level level) {
         super(type, level);
@@ -54,12 +69,12 @@ public class CushionEntity extends Entity {
 
     @Override
     protected void readAdditionalSaveData(ValueInput input) {
-        this.setColor(DyeColor.byId(input.getIntOr("color", DyeColor.WHITE.getId())));
+        this.setColor(input.read(COLOR_TAG, COLOR_CODEC).orElse(DyeColor.WHITE));
     }
 
     @Override
     protected void addAdditionalSaveData(ValueOutput output) {
-        output.putInt("color", this.getColor().getId());
+        output.store(COLOR_TAG, COLOR_CODEC, this.getColor());
     }
 
     @Override
