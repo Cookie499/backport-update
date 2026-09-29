@@ -9,6 +9,7 @@
     "BlockEntityTypeAccessor",
     "BlockBehaviourMixin",
     "BlockSetTypeInvoker",
+    "BlockStateCodecMixin",
     "BoatMixin",
     "ChunkGeneratorStructureStateMixin",
     "DataFixerSchemaMixin",
