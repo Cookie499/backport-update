@@ -1,5 +1,4 @@
 {
-  "gui_light": "front",
   "textures": {
     "particle": "minecraft:block/shelf_mushroom_particle",
     "large": "minecraft:block/shelf_mushroom_stage1"

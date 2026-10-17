@@ -8,6 +8,7 @@
 - The mod's own structure templates (the abandoned camps) already use the form both versions understand, so they need no conversion.
 
 ### Fixed
+- Fixed the Straw Bed's item model. It was a hand-written model that put the head half on the far side of the foot half, so the item sat half a block away from where a vanilla bed of the same shape sits. The item is now the head half plus the foot half shifted one block back - the same composite vanilla generates for beds - which is what its two block models and their display transforms were written for.
 - Fixed the development-client startup crash "Data fixer not registered for: minecraft:cushion in entity_tree". The backported entity types (cushion, poplar boat, poplar chest boat) are unknown to this version's data fixer schema, which is expected; the lookup now answers without a fixer instead of going through the failing path. That also stops "No data fixer registered for ..." from filling the log.
 - Fixed the crash "Critical injection failure: @Redirect annotation on backport$spareTeammates could not find any targets matching 'hurtEntities(Ljava/util/List;)V'". The explosion friendly-fire fix now targets the 26.2 signature, which takes no arguments.
 

@@ -1,6 +1,4 @@
 {
-  "render_type": "minecraft:cutout",
-  "gui_light": "front",
   "textures": {
     "all": "minecraft:block/straw_bed",
     "particle": "minecraft:block/straw_bed_particle"
@@ -267,7 +265,7 @@
       "translation": [
         0,
         4,
-        -2
+        -3
       ],
       "scale": [
         0.5,

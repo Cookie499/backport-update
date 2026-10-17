@@ -90,7 +90,6 @@ public class ModModelProvider extends ModelProvider {
             flatItem(itemModels, ModItems.EXPLORER_MAPS.get(type).get(), "item/" + type.textureName());
         }
 
-        existingModelItem(itemModels, ModItems.STRAW_BED.get(), "item/straw_bed_full");
         existingModelItem(itemModels, ModItems.SHELF_MUSHROOM.get(), "block/shelf_mushroom_stage0");
     }
 
