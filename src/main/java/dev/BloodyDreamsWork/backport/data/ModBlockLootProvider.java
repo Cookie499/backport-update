@@ -2,13 +2,13 @@ package dev.BloodyDreamsWork.backport.data;
 
 import dev.BloodyDreamsWork.backport.content.ShelfMushroomBlock;
 import dev.BloodyDreamsWork.backport.registry.ModBlocks;
-import net.minecraft.advancements.criterion.StatePropertiesPredicate;
+import net.minecraft.advancements.predicates.StatePropertiesPredicate;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;
 import net.minecraft.world.item.DyeColor;
 import net.minecraft.world.level.block.BedBlock;
-import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.properties.BedPart;
 import net.minecraft.world.level.storage.loot.LootPool;
 import net.minecraft.world.level.storage.loot.LootTable;
@@ -18,7 +18,6 @@ import net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePrope
 import net.minecraft.world.level.storage.loot.providers.number.ConstantValue;
 
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class ModBlockLootProvider extends BlockLootSubProvider {
 
@@ -42,6 +41,7 @@ public class ModBlockLootProvider extends BlockLootSubProvider {
         dropSelf(ModBlocks.POPLAR_SAPLING.get());
         dropSelf(ModBlocks.POPLAR_SIGN.get());
         dropSelf(ModBlocks.POPLAR_HANGING_SIGN.get());
+        dropSelf(ModBlocks.POPLAR_SHELF.get());
 
         dropSelf(ModBlocks.RED_SHRUB.get());
 
@@ -75,14 +75,13 @@ public class ModBlockLootProvider extends BlockLootSubProvider {
             add(ModBlocks.CONCRETE_SLABS.get(color).get(), this::createSlabItemTable);
         }
 
-        add(ModBlocks.POTTED_POPLAR_SAPLING.get(),
-                block -> createPotFlowerItemTable(ModBlocks.POPLAR_SAPLING.get()));
-    }
-
-    @Override
-    protected Iterable<Block> getKnownBlocks() {
-        return ModBlocks.BLOCKS.getEntries().stream()
-                .map(holder -> (Block) holder.value())
-                .collect(Collectors.toList());
+        // 26.2 keeps createPotFlowerItemTable private, so the pot drops are spelled out here.
+        add(ModBlocks.POTTED_POPLAR_SAPLING.get(), block -> LootTable.lootTable()
+                .withPool(applyExplosionCondition(Blocks.FLOWER_POT, LootPool.lootPool()
+                        .setRolls(ConstantValue.exactly(1.0F))
+                        .add(LootItem.lootTableItem(Blocks.FLOWER_POT))))
+                .withPool(applyExplosionCondition(ModBlocks.POPLAR_SAPLING.get(), LootPool.lootPool()
+                        .setRolls(ConstantValue.exactly(1.0F))
+                        .add(LootItem.lootTableItem(ModBlocks.POPLAR_SAPLING.get())))));
     }
 }

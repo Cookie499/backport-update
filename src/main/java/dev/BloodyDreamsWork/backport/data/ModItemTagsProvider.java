@@ -46,6 +46,7 @@ public class ModItemTagsProvider extends ItemTagsProvider {
         tag(ItemTags.SAPLINGS).add(ModItems.POPLAR_SAPLING.get());
         tag(ItemTags.SIGNS).add(ModItems.POPLAR_SIGN.get());
         tag(ItemTags.HANGING_SIGNS).add(ModItems.POPLAR_HANGING_SIGN.get());
+        tag(ItemTags.WOODEN_SHELVES).add(ModItems.POPLAR_SHELF.get());
         tag(ItemTags.BOATS).add(ModItems.POPLAR_BOAT.get());
         tag(ItemTags.CHEST_BOATS).add(ModItems.POPLAR_CHEST_BOAT.get());
 

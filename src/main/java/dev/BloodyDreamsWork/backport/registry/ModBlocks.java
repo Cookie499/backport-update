@@ -21,13 +21,16 @@ import net.minecraft.world.level.block.FlowerPotBlock;
 import net.minecraft.world.level.block.CeilingHangingSignBlock;
 import net.minecraft.world.level.block.PressurePlateBlock;
 import net.minecraft.world.level.block.RotatedPillarBlock;
+import net.minecraft.world.level.block.ShelfBlock;
 import net.minecraft.world.level.block.SlabBlock;
+import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.StairBlock;
 import net.minecraft.world.level.block.StandingSignBlock;
 import net.minecraft.world.level.block.TrapDoorBlock;
 import net.minecraft.world.level.block.WallHangingSignBlock;
 import net.minecraft.world.level.block.WallSignBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
+import net.minecraft.world.level.block.state.properties.NoteBlockInstrument;
 import net.minecraft.world.level.material.MapColor;
 import net.minecraft.world.level.material.PushReaction;
 
@@ -151,6 +154,14 @@ public final class ModBlocks {
             () -> new WallHangingSignBlock(ModWoodTypes.POPLAR,
                     BlockBehaviour.Properties.ofFullCopy(Blocks.OAK_WALL_HANGING_SIGN)));
 
+    public static final ModRegister.Entry<ShelfBlock> POPLAR_SHELF = BLOCKS.register("poplar_shelf",
+            () -> new ShelfBlock(BlockBehaviour.Properties.of()
+                    .mapColor(POPLAR_PLANKS.get().defaultMapColor())
+                    .instrument(NoteBlockInstrument.BASS)
+                    .sound(SoundType.SHELF)
+                    .ignitedByLava()
+                    .strength(2.0F, 3.0F)));
+
     public static final ModRegister.Entry<StrawBedBlock> STRAW_BED = BLOCKS.register("straw_bed",
             () -> new StrawBedBlock(BlockBehaviour.Properties.ofFullCopy(Blocks.BED.white())
                     .mapColor(MapColor.COLOR_YELLOW)
@@ -214,6 +225,9 @@ public final class ModBlocks {
         fire.add(POPLAR_SLAB.get(), 5, 20);
         fire.add(POPLAR_FENCE.get(), 5, 20);
         fire.add(POPLAR_FENCE_GATE.get(), 5, 20);
+
+        // Vanilla burns every wooden shelf like a bookshelf or a lectern.
+        fire.add(POPLAR_SHELF.get(), 30, 20);
 
         fire.add(RED_POPLAR_LEAVES.get(), 30, 60);
         fire.add(ORANGE_POPLAR_LEAVES.get(), 30, 60);

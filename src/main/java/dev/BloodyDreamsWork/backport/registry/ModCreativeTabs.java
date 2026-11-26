@@ -19,8 +19,8 @@ public final class ModCreativeTabs {
      * Files the backported content into the vanilla creative tabs at the same spots Minecraft 26.3
      * uses, rather than opening a tab of its own. 26.3 adds no new tab - it puts poplar under
      * Building Blocks, the coloured families under Colored Blocks, the plants under Natural Blocks,
-     * the signs and the straw bed under Functional Blocks and the boats under Tools & Utilities.
-     * Every family is inserted after the entry it follows in 26.3.
+     * the shelves, signs and the straw bed under Functional Blocks and the boats under Tools &
+     * Utilities. Every family is inserted after the entry it follows in 26.3.
      */
     public static void register() {
         CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.BUILDING_BLOCKS)
@@ -79,9 +79,12 @@ public final class ModCreativeTabs {
     }
 
     private static void functionalBlocks(FabricCreativeModeTabOutput output) {
-        ItemLike previous = add(output, Items.PALE_OAK_HANGING_SIGN, ModItems.POPLAR_SIGN.get());
-        previous = add(output, previous, ModItems.POPLAR_HANGING_SIGN.get());
-        add(output, previous, ModItems.STRAW_BED.get());
+        ItemLike previous = add(output, Items.PALE_OAK_SHELF, ModItems.POPLAR_SHELF.get());
+        previous = add(output, Items.PALE_OAK_HANGING_SIGN, ModItems.POPLAR_SIGN.get());
+        add(output, previous, ModItems.POPLAR_HANGING_SIGN.get());
+        // 26.3 puts the straw bed straight after the 16 beds and before the candle; pink is the
+        // last colour of vanilla's gameplayColorOrder, so its bed closes the family.
+        add(output, Items.BED.pink(), ModItems.STRAW_BED.get());
     }
 
     private static void toolsAndUtilities(FabricCreativeModeTabOutput output) {

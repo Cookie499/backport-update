@@ -1,6 +1,5 @@
 package dev.BloodyDreamsWork.backport.data;
 
-import dev.BloodyDreamsWork.backport.Backport;
 import dev.BloodyDreamsWork.backport.worldgen.ModBiomes;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
@@ -13,7 +12,8 @@ public class ModBiomeTagsProvider extends BiomeTagsProvider {
 
     public ModBiomeTagsProvider(PackOutput output,
                                 CompletableFuture<HolderLookup.Provider> lookupProvider) {
-        super(output, lookupProvider, Backport.MODID);
+        // 26.2 takes the namespace from the registry, so no mod id argument any more.
+        super(output, lookupProvider);
     }
 
     @Override

@@ -51,6 +51,7 @@ public class ModBlockTagsProvider extends BlockTagsProvider {
         tag(BlockTags.WALL_SIGNS).add(ModBlocks.POPLAR_WALL_SIGN.get());
         tag(BlockTags.CEILING_HANGING_SIGNS).add(ModBlocks.POPLAR_HANGING_SIGN.get());
         tag(BlockTags.WALL_HANGING_SIGNS).add(ModBlocks.POPLAR_WALL_HANGING_SIGN.get());
+        tag(BlockTags.WOODEN_SHELVES).add(ModBlocks.POPLAR_SHELF.get());
 
         tag(BlockTags.MINEABLE_WITH_AXE).add(
                 ModBlocks.POPLAR_LOG.get(),

@@ -69,6 +69,8 @@ public final class ModItems {
     public static final ModRegister.Entry<PoplarBoatItem> POPLAR_CHEST_BOAT = ITEMS.register("poplar_chest_boat",
             () -> new PoplarBoatItem(true, new Item.Properties().stacksTo(1)));
 
+    public static final ModRegister.Entry<BlockItem> POPLAR_SHELF = simpleBlockItem(ModBlocks.POPLAR_SHELF);
+
     public static final ModRegister.Entry<BlockItem> STRAW_BED = simpleBlockItem(ModBlocks.STRAW_BED);
 
     public static final Map<DyeColor, ModRegister.Entry<CushionItem>> CUSHIONS = cushions();

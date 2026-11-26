@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.2
+
+### Added
+- Added the Poplar Shelf - the one block of the 26.3 poplar wood set the mod was still missing. It is crafted from six stripped poplar logs like every other shelf, shares vanilla's Shelf block entity, burns like the other wooden shelves (ignite odds 30, burn odds 20) and sits in Functional Blocks right after Pale Oak Shelf, where 26.3 puts it. It ships with its 26.3 blockstate, models, item model, loot table and recipe advancement, and its name is translated in all 143 language files.
+
+### Fixed
+- Fixed the Straw Bed sitting next to the signs in the Functional Blocks tab. 26.3 puts it straight after the sixteen beds and before the candle, which is where it is now.
+
 ## 1.1.1
 
 ### World and save compatibility
